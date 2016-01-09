@@ -1,0 +1,359 @@
+Summary for Policymakers IPCC WGI Fourth Assessment Report
+Page 7 of 18
+•
+The average atmospheric water vapour content has incr
+eased since at least the 1980s over land and ocean as
+well as in the upper troposphere. The increase is broadly
+consistent with the extra water vapour that warmer
+air can hold. {3.4}
+•
+Observations since 1961 show that the average temperature
+of the global ocean has incr
+eased to depths of at
+least 3000 m and that the ocean has been absorbing more
+than 80% of the heat added to the climate system.
+Such warming causes seawater to expand, contributi
+ng to sea level rise (see Table SPM-1). {5.2, 5.5}
+Table SPM-1.
+ Observed rate of sea level rise and estimated contributions from different sources. {5.5, Table 5.3}
+Rate of sea level rise (mm per year)
+Source of sea level rise
+1961 – 2003
+1993 – 2003
+Thermal expansion 0.42 ± 0.12
+1.6 ± 0.5
+Glaciers and ice caps 0.50 ± 0.18
+0.77 ± 0.22
+Greenland ice sheet 0.05 ± 0.12
+0.21 ± 0.07
+Antarctic ice sheet 0.14 ± 0.41
+0.21 ± 0.35
+Sum of individual climate
+contributions to sea level rise
+1.1 ± 0.5
+2.8 ± 0.7
+Observed total sea level rise 1.8 ± 0.5
+a
+3.1 ± 0.7
+a
+Difference
+(Observed minus sum of estimated climate
+contributions)
+0.7 ± 0.7
+0.3 ± 1.0
+Table note:
+a
+Data prior to 1993 are from tide gauges and after 1993 are from satellite altimetry.
+•
+Mountain glaciers and snow cover have declined on av
+erage in both hemispheres. Widespread decreases in
+glaciers and ice caps have contributed to sea level ri
+se (ice caps do not include contributions from the
+Greenland and Antarctic ice sheets). (See Table SPM-1.) {4.6, 4.7, 4.8, 5.5}
+•
+New data since the TAR now show that losses from the ice sheets of Greenland and Antarctica have
+very
+likely
+ contributed to sea level rise over 1993 to 2003 (
+see Table SPM-1). Flow speed has increased for some
+Greenland and Antarctic outlet glaciers, which drain ice
+from the interior of the ice sheets. The corresponding
+increased ice sheet mass loss has often followed thinning,
+reduction or loss of ice shelves or loss of floating
+glacier tongues. Such dynamical ice loss is sufficient
+to explain most of the Antarctic net mass loss and
+approximately half of the Greenland net mass loss. Th
+e remainder of the ice loss from Greenland has occurred
+because losses due to melting have exceeded accumu
+lation due to snowfall.
+ {4.6, 4.8, 5.5}
+•
+Global average sea level rose at an average rate of 1.8
+[1.3 to 2.3] mm per year over 1961 to 2003. The rate
+was faster over 1993 to 2003, about 3.1 [2.4 to 3.8] mm per year. Whether the faster rate for 1993 to 2003
+reflects decadal variability or an increase in
+the longer-term trend is unclear. There is
+high confidence
+that the
+rate of observed sea level rise increased from the 19th
+to the 20th century. The
+total 20th century rise is
+estimated to be 0.17 [0.12 to 0.22] m. {5.5}
+•
+For 1993-2003, the sum of the climate contributions is
+consistent within uncertainties with the total sea level
+rise that is directly observed (see Table SPM-1). These estimates are based on improved satellite and
+in-situ
+data now available. For the period of 1961 to 2003, the su
+m of climate contributions is estimated to be smaller
+than the observed sea level rise. The TAR reported a
+similar discrepancy for 1910 to 1990. {5.5}
+Summary for Policymakers IPCC WGI Fourth Assessment Report
+Page 15 of 18
+linearly with global average temperature change, the
+upper ranges of sea level rise for SRES scenarios shown
+in Table SPM-3 would increase by 0.1 m to 0.2 m. La
+rger values cannot be excluded, but understanding of
+these effects is too limited to assess their likelihood or
+provide a best estimate or an upper bound for sea level
+rise. {10.6}
+•
+Increasing atmospheric carbon dioxide concentrations
+ leads to increasing acidification of the ocean.
+Projections based on SRES scenarios give reductions in average global surface ocean pH
+16
+ of between 0.14
+and 0.35 units over the 21st century, adding to the presen
+t decrease of 0.1 units since pre-industrial times.
+{5.4, Box 7.3, 10.4}
+There is now higher confidence in
+projected patterns of warming and other regional-scale features,
+including changes in wind patterns, precipitation, a
+nd some aspects of extrem
+es and of ice. {8.2, 8.3,
+8.4, 8.5, 9.4, 9.5, 10.3, 11.1}
+•
+Projected warming in the 21st cen
+tury shows scenario-independent geographical patterns similar to those
+observed over the past several decades. Warming is expected to be greatest over land and at most high
+northern latitudes, and least over the Southern Ocean a
+nd parts of the North Atlantic ocean (see Figure SPM-
+6). {10.3}
+FIGURE SPM-6.
+ Projected surface temperature changes for the earl
+y and late 21st century relative to the period 1980–
+1999. The central and right panels show the Atmosphere-O
+cean General Circulation multi-Model average projections for
+the B1 (top), A1B (middle) and A2 (bottom) SRES scenarios averaged over decades 2020–2029 (center) and 2090–2099
+(right). The left panel shows corresponding uncertainties as
+the relative probabilities of estimated global average warming
+from several different AOGCM and EMICs studies for the same
+periods. Some studies present results only for a subset of
+the SRES scenarios, or for various model versions. Therefor
+e the difference in the number of
+ curves, shown in the left-
+hand panels, is due only to differences in the av
+ailability of results. {Figures 10.8 and 10.28}
+16
+ Decreases in pH correspond to in
+creases in acidity of a solution.
+See Glossary for further details.
+Summary for Policymakers IPCC WGI Fourth Assessment Report
+Page 16 of 18
+•
+Snow cover is projected to contract. Widespread incr
+eases in thaw depth are projected over most permafrost
+regions. {10.3, 10.6}
+•
+Sea ice is projected to shrink in both the Arctic and
+Antarctic under all SRES scenari
+os. In some projections,
+Arctic late-summer sea ice disappears almost entirely
+by the latter part of the 21st century. {10.3}
+•
+It is
+very likely
+ that hot extremes, heat waves, and heavy preci
+pitation events will continue to become more
+frequent. {10.3}
+•
+Based on a range of models, it is
+likely
+ that future tropical cyclones (typhoons and hurricanes) will become
+more intense, with larger peak wind speeds and more
+ heavy precipitation associated with ongoing increases of
+tropical SSTs. There is less confidence in projections
+of a global decrease in numbers of tropical cyclones.
+The apparent increase in the proportion of very intense st
+orms since 1970 in some regions is much larger than
+simulated by current models for that period. {9.5, 10.3, 3.8}
+•
+Extra-tropical storm tracks are projected to move polewar
+d, with consequent changes in wind, precipitation,
+and temperature patterns, continuing th
+e broad pattern of observed trends over the last half-century. {3.6,
+10.3}
+•
+Since the TAR there is an improving understanding of
+projected patterns of precipitation. Increases in the
+amount of precipitation are
+very likely
+ in high-latitudes, while decreases are
+likely
+ in most subtropical land
+regions (by as much as about 20% in the A1B scenar
+io in 2100, see Figure SPM-7), continuing observed
+patterns in recent trends. {3.3, 8.
+3, 9.5, 10.3, 11.2 to 11.9}
+•
+Based on current model simulations, it is
+very likely
+ that the meridional overturning circulation (MOC) of the
+Atlantic Ocean will slow down during the 21st centu
+ry. The multi-model average reduction by 2100 is 25%
+(range from zero to about 50%) for SRES emission scenar
+io A1B. Temperatures in the Atlantic region are
+projected to increase despite such
+changes due to the much larger wa
+rming associated with projected
+increases of greenhouse gases. It is
+very unlikely
+ that the MOC will undergo a large abrupt transition during
+the 21st century. Longer-term changes in the MOC ca
+nnot be assessed with confidence. {10.3, 10.7}
+FIGURE SPM-7.
+ Relative changes in precipitation (in percent) for the period 2090–2099, relative to 1980–1999. Values
+are multi-model averages based on the SR
+ES A1B scenario for December to February
+ (left) and June to August (right).
+White areas are where less than 66
+% of the models agree in the sign of the ch
+ange and stippled areas are where more than
+90% of the models agree in the sign of the change. {Figure 10.9}
+Summary for Policymakers IPCC WGI Fourth Assessment Report
+Page 17 of 18
+Anthropogenic warming and sea level rise would
+continue for centuries due to the timescales
+associated with climate processes and feedbacks,
+even if greenhouse gas concentrations were to be
+stabilized. {10.4, 10.5, 10.7}
+•
+Climate carbon cycle coupling is expected to add carbon dioxide to the atmosphere as the climate system
+warms, but the magnitude of this feedback is uncerta
+in. This increases the uncertain
+ty in the trajectory of
+carbon dioxide emissions required to ach
+ieve a particular stabilisation level of atmospheric carbon dioxide
+concentration. Based on current unders
+tanding of climate carbon cycle feedback, model studies suggest that to
+stabilise at 450 ppm carbon dioxide, could require that cu
+mulative emissions over the 21st century be reduced
+from an average of approximately 670 [630 to 710] GtC (2460 [2310 to 2600] GtCO
+2
+) to approximately 490
+[375 to 600] GtC (1800 [1370 to 2200] GtCO
+2
+). Similarly, to stabilise at 1000 ppm this feedback could
+require that cumulative emissions be reduced from a
+model average of approximately 1415 [1340 to 1490]
+GtC (5190 [4910 to 5460] GtCO
+2
+) to approximately 1100 [980 to 1250] GtC (4030 [3590 to 4580] GtCO
+2
+).
+{7.3, 10.4}
+•
+If radiative forcing were to be stabilized in 2100 at B1 or A1B levels
+11
+ a further increase in global average
+temperature of about 0.5°C would still be expected, mostly by 2200. {10.7}
+•
+If radiative forcing were to be
+stabilized in 2100 at A1B levels
+11
+, thermal expansion alone would lead to 0.3 to
+0.8 m of sea level rise by 2300 (relative to 1980–19
+99). Thermal expansion would continue for many
+centuries, due to the time required to trans
+port heat into the deep ocean. {10.7}
+•
+Contraction of the Greenland ice sheet is projected to continue to contribute to sea level rise after 2100.
+Current models suggest ice mass losses increase with temp
+erature more rapidly than
+gains due to precipitation
+and that the surface mass balance becomes negative at
+a global average warming (relative to pre-industrial
+values) in excess of 1.9 to 4.6°C. If a negative surface
+mass balance were sustained for millennia, that would
+lead to virtually complete elimination of the Greenland
+ ice sheet and a resulting contribution to sea level rise
+of about 7 m. The corresponding future temperatures
+in Greenland are comparable
+to those inferred for the
+last interglacial period 125,000 years ago, when paleoc
+limatic information suggests
+reductions of polar land
+ice extent and 4 to 6 m of sea level rise. {6.4, 10.7}
+•
+Dynamical processes related to ice flow not included in
+ current models but suggested by recent observations
+could increase the vulnerability of the ice sheets to wa
+rming, increasing future sea level rise. Understanding
+of these processes is limited and there is no consensus on their magnitude. {4.6, 10.7}
+•
+Current global model studies project that the Antarctic i
+ce sheet will remain too cold for widespread surface
+melting and is expected to gain in mass due to incr
+eased snowfall. However, net loss of ice mass could occur
+if dynamical ice discharge dominates the ice sheet mass balance. {10.7}
+•
+Both past and future anthropogenic carbon dioxide emi
+ssions will continue to contribute to warming and sea
+level rise for more than a millennium, due to the
+timescales required for removal of this gas from the
+atmosphere. {7.3, 10.3}
+Summary for Policymakers IPCC WGI Fourth Assessment Report
+Page 18 of 18
+The Emission Scenarios of the IPCC Special
+ Report on Emission Scenarios (SRES)
+17
+A1. The A1 storyline and scenario fami
+ly describes a future world of very
+rapid economic growth
+, global population
+that peaks in mid-century and declines thereafter, and the
+rapid introduction of new and more efficient technologies.
+Major underlying themes are convergence among regions, cap
+acity building and increased cultural and social
+interactions, with a substantia
+l reduction in regional differences in per capita
+ income. The A1 scenario family develops
+into three groups that describe alternative directions of
+technological change in the energy system. The three A1 groups
+are distinguished by their technological emphasis: fossil intensive (A1FI), non-fossil energy sources (A1T), or a
+balance across all sources (A1B) (where balanced is defined
+as not relying too heavily on one particular energy source,
+on the assumption that similar improvement rates apply
+to all energy supply and end use technologies).
+A2. The A2 storyline and scenario fami
+ly describes a very heterogeneous world. The underlying theme is self reliance
+and preservation of local identities. Fertility patterns acr
+oss regions converge very slowly, which results in
+continuously increasing population. Econom
+ic development is primarily regiona
+lly oriented and per capita economic
+growth and technological change more fragmented and slower than other storylines.
+B1. The B1 storyline and scenario family describes a converg
+ent world with the same global population, that peaks in
+mid-century and declines thereafter, as in the A1 storyline,
+ but with rapid change in economic structures toward a
+service and information economy, with reductions in materi
+al intensity and the introduction of clean and resource
+efficient technologies. The emphasis is on global solutions
+to economic, social and environmental sustainability,
+including improved equity, but without additional climate initiatives.
+B2. The B2 storyline and scenario fami
+ly describes a world in which the emph
+asis is on local solutions to economic,
+social and environmental sustainability. It is a world with
+ continuously increasing global population, at a rate lower
+than A2, intermediate levels of economic development, a
+nd less rapid and more diverse technological change than in
+the B1 and A1 storylines. While the scenario is also orie
+nted towards environmental protection and social equity, it
+focuses on local and regional levels.
+An illustrative scenario was cho
+sen for each of the six scenario groups A1B,
+A1FI, A1T, A2, B1 and B2. All should be
+considered equally sound.
+The SRES scenarios do not include addi
+tional climate initiatives, which means that no scenarios are included that
+explicitly assume implementation of the United Nations Fr
+amework Convention on Climate Change or the emissions
+targets of the Kyoto Protocol.
+17
+ Emission scenarios are not assessed in this Working Group One re
+port of the IPCC. This box summarizing the SRES scenarios is
+taken from
+the TAR and has been subject to prior
+line by line approval by the Panel.
