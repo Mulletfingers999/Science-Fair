@@ -1,0 +1,393 @@
+Rice yields decline with higher night temperature
+from global warming
+Shaobing Peng*, Jianliang Huang†, John E. Sheehy*, Rebecca C. Laza*, Romeo M. Visperas*, Xuhua Zhong‡,
+Grace S. Centeno*, Gurdev S. Khush§¶, and Kenneth G. Cassman¶储
+*Crop, Soil, and Water Sciences Division, International Rice Research Institute, DAPO Box 7777, Metro Manila, Philippines; †Crop Physiology and Production
+Center, College of Plant Science and Technology, Huazhong Agricultural University, Wuhan, Hubei 430070, China; ‡Rice Research Institute, Guangdong
+Academy of Agricultural Sciences, Guangzhou, Guangdong 510640, China; §University of California, Davis, CA 95616; and 储Department of Agronomy and
+Horticulture, University of Nebraska, Lincoln, NE 68583
+Contributed by Gurdev S. Khush, May 27, 2004
+
+orld rice production must increase by ⬇1% annually to
+meet the growing demand for food that will result from
+population growth and economic development (1). Most of this
+increase must come from greater yields on existing cropland to
+avoid environmental degradation, destruction of natural ecosystems, and loss of biodiversity (2, 3). Achieving greater yields
+depends on increasing total crop biomass, because there is little
+scope to further increase the proportion of that biomass allocated to grain (4). Total crop biomass is determined mainly by
+crop photosynthesis and respiration losses, both of which are
+sensitive to temperature (5). Future crop yields will be influenced by complex interactions between the effects of increases
+in atmospheric concentrations of CO2 (6) and trace gases such
+as ozone (7) as well as the effects of temperature increases
+brought about by climate change (8).
+Global mean surface air temperature increased by ⬇0.5°C in the
+20th century and is projected to further increase by 1.5 to 4.5°C in
+this century (9). In the past century, daily minimum nighttime
+temperature increased at a faster rate than daily maximum temperature in association with a steady increase in atmospheric
+greenhouse gas concentrations (10, 11). Although the effects of
+projected climate change on crop yields have been evaluated by
+using crop-simulation models (8), there are few studies on the
+effects of observed climate change on crop growth and yield (12,
+13). In the present study, we analyzed weather data at the International Rice Research Institute (IRRI) Farm (Los Ban
+˜os, Laguna,
+Philippines) from 1979 to 2003 to evaluate trends in mean maximum and minimum temperatures and solar radiation in both dry
+and wet cropping seasons. Relationships between grain yield and
+temperature or radiation were evaluated by using yield data from
+field experiments conducted under irrigated conditions with optimal management at the IRRI Farm from 1992 to 2003. Our
+objective was to determine whether there were significant time
+
+W
+
+www.pnas.org兾cgi兾doi兾10.1073兾pnas.0403720101
+
+trends in changes of temperature or radiation and whether these
+changes had an impact on grain yield.
+Materials and Methods
+Weather Data Collection. A weather station was set up at the
+
+research farm of IRRI at lat 14°11⬘N, long 121°15⬘E and an
+elevation of 21 m. Data recording began on January 1, 1979. The
+site measures 10.5 ⫻ 9.5 m and is surrounded by irrigated rice
+throughout the year. It conforms to the World Meteorological
+Organization standard specifications. The experimental field in
+which rice yields were measured was located within 1 km of the
+weather station, and the topography is flat. The nearest mountain
+peak (Mt. Makiling, ⬍1,000 m high) is located southwest of the site
+at a distance of ⬇8 km. Meteorological instruments at the station
+for the present study include a Gunn–Bellani radiation integrator,
+a solarimeter, glass thermometers for minimum and maximum
+temperatures, a psychrometer, and a thermohygrograph. The station houses additional instruments as back-up in case the main
+instruments malfunction.
+Before 1990, standard measurements were recorded three
+times each day at 0730, 1400, and 1700 h. Since 1990, standard
+measurements have been recorded daily at 0800 h. These
+measurements included dry- and wet-bulb temperature, daily
+minimum and maximum air temperatures, and total radiation.
+The Climate Computer (CLICOM) system, developed under the
+World Meteorological Organization, was used as the main
+database-management tool, including comprehensive data entry, data validation, and data quality control. Historic weather
+data were imported into CLICOM, which became the basis of
+the station-specific limits for quality control of the incoming new
+data. For a given month, CLICOM checks each entry against
+global and station-specific set extreme value limits, against other
+related element values, and against the previous day’s recorded
+value. Set value limits were derived from published reports of the
+Food and Agriculture Organization of the United Nations and
+the Philippine Atmospheric, Geophysical, and Astronomical
+Services Administration.
+Instrument performance was evaluated annually for standardization. Working standard instruments were compared with
+storage standard instruments, and installed instruments at the
+station were compared with working standard instruments.
+Standard thermometers and psychrometers comparable with
+those used by the Philippine Atmospheric, Geophysical, and
+Astronomical Services Administration were acquired by the
+IRRI weather station. The storage standard Kipp & Zonen
+(Delft, The Netherlands) solarimeter was calibrated in The
+Netherlands every 5 years. Instruments installed at the station
+were recalibrated before each cropping season started.
+Abbreviations: IRRI, International Rice Research Institute; ha, hectare.
+¶To
+
+whom correspondence may be addressed. E-mail: kcassman@unlnotes.unl.edu or
+gurdev@khush.org.
+
+© 2004 by The National Academy of Sciences of the USA
+
+PNAS 兩 July 6, 2004 兩 vol. 101 兩 no. 27 兩 9971–9975
+
+AGRICULTURAL
+SCIENCES
+
+The impact of projected global warming on crop yields has been
+evaluated by indirect methods using simulation models. Direct
+studies on the effects of observed climate change on crop growth
+and yield could provide more accurate information for assessing
+the impact of climate change on crop production. We analyzed
+weather data at the International Rice Research Institute Farm from
+1979 to 2003 to examine temperature trends and the relationship
+between rice yield and temperature by using data from irrigated
+field experiments conducted at the International Rice Research
+Institute Farm from 1992 to 2003. Here we report that annual mean
+maximum and minimum temperatures have increased by 0.35°C
+and 1.13°C, respectively, for the period 1979 –2003 and a close
+linkage between rice grain yield and mean minimum temperature
+during the dry cropping season (January to April). Grain yield
+declined by 10% for each 1°C increase in growing-season minimum
+temperature in the dry season, whereas the effect of maximum
+temperature on crop yield was insignificant. This report provides a
+direct evidence of decreased rice yields from increased nighttime
+temperature associated with global warming.
+
+Crop Data Collection. The IRRI Farm is located in a humid,
+
+tropical, lowland environment that allows two and even three
+rice crops per year. The standard rice-growing seasons in the
+surrounding area are the dry season (from January to April) and
+the wet season (from late June to September). Field experiments
+were conducted at the IRRI Farm during the dry and wet
+seasons of 1992–2003. The soil at the IRRI Wetland Farm was
+an Andaqueptic Haplaquoll with pH ⫽ 6.0–6.6, organic C ⫽
+14.4–16.2 g䡠kg⫺1, total N ⫽ 1.40–1.50 g䡠kg⫺1, and cation exchange capacity ⫽ 32.9–40.6 cmol䡠kg⫺1.
+In each growing season, IR72 and other cultivars (the other
+cultivars differed from season to season) were arranged in a
+randomized complete-block design with four replications. IR72
+is an indica inbred cultivar developed by IRRI and released in
+1988 in the Philippines for irrigated lowlands. This cultivar has
+been widely used in field experiments because of its high grain
+yield. To eliminate genetic factors, only crop data for IR72 were
+used in this study. Seedlings were raised in trays. Fourteen-dayold seedlings were transplanted between January 3rd and 22nd
+in dry seasons and between June 17th and July 17th in wet
+seasons. Hill spacing was 0.2 ⫻ 0.2 m, with four seedlings per hill.
+Plot size was 5 ⫻ 6 m. P (30 kg䡠ha⫺1 as single superphosphate),
+K (40 kg䡠ha⫺1 as KCl), and Zn (5 kg䡠ha⫺1 as zinc sulfate
+heptahydrate) were applied and incorporated in all plots 1 day
+before transplanting in the dry seasons. Rates of P, K, and Zn
+application were reduced by 50% in wet seasons because of the
+smaller yield potential compared with the dry season. In dry
+seasons, plants received 200 kg䡠ha⫺1 total N as urea, which was
+applied in four splits (60 kg as basal, 40 kg at midtillering, 60 kg
+at panicle initiation, and 40 kg at heading) to ensure N sufficiency. In wet seasons, plants received 120 kg䡠ha⫺1 total N split
+equally among those four stages. Fields were flooded 4 days after
+transplanting, and a floodwater depth of 5–10 cm was maintained until 7 days before maturity, when fields were drained.
+Insects, diseases, and weeds were controlled by using approved
+pesticides to avoid yield loss.
+Twelve hills (0.48 m2) were sampled diagonally from a 5-m2
+harvest area for each replication at maturity to determine
+panicle number per hill, above-ground total biomass, harvest
+index, and yield components. Plants were separated into straw
+and panicles. Straw dry weight was determined after oven drying
+at 70°C to constant weight. Panicles were hand-threshed, and
+filled spikelets were separated from unfilled spikelets by submerging them in tap water. Three subsamples of 30-g filled
+spikelets and 5-g unfilled spikelets were taken to count the
+number of spikelets. Dry weights of rachis and filled and unfilled
+spikelets were determined after oven drying at 70°C to constant
+weight. Above-ground total biomass was the summation of straw,
+rachis, and filled and unfilled spikelets dry matter. Spikelets per
+panicle, grain-filling percentage (100 ⫻ filled spikelet number/
+total spikelet number), and harvest index (100 ⫻ filled spikelet
+weight/above-ground total biomass) were calculated. Grain yield
+was determined from a 5-m2 area in each replication and
+adjusted to an H2O moisture content of 0.14 g䡠g⫺1 fresh weight.
+The significance of time trends in changes of temperature and
+radiation was determined by testing the statistical significance of
+slopes at the P ⬍ 0.05 probability level according to the Student’s
+t test. The relationships between yield attributes and climatic
+parameters were evaluated by using correlation and partialcorrelation analyses (14).
+Results and Discussion
+Annual mean maximum and minimum temperatures increased by
+0.35°C and 1.13°C, respectively, during the 25-year period from
+1979 to 2003 (Fig. 1 A and B). The increase in minimum temperature was 3.2 times greater than the increase in maximum temperature, which is consistent with the observation that minimum
+temperature has increased approximately three times as much as
+9972 兩 www.pnas.org兾cgi兾doi兾10.1073兾pnas.0403720101
+
+the corresponding maximum temperature from 1951 to 1990 over
+much of the Earth’s surface (10). However, the magnitude of
+increase at our site was greater than the global trend determined
+over the 1950–1993 period (11). The larger increase in temperature
+observed at the IRRI Farm may reflect the stronger trace-gasinduced warming during the last quarter of the 20th century. No
+significant trend was observed for mean maximum temperature in
+the dry season (January to April) although mean maximum temperature in the wet season (June to September) increased slightly
+(Fig. 1 D and G). Mean minimum temperature increased by 1.33°C
+in the dry season and by 0.80°C in the wet season from 1979 to 2003
+(Fig. 1 E and H). Mean radiation also increased during the same
+period (Fig. 1 C, F, and I). Radiation had a closer positive
+correlation with maximum temperature than with minimum temperature. In general, higher solar radiation leads to a higher
+maximum temperature and a lower minimum temperature because
+of radiative cooling. Our data suggest that nighttime warming could
+be greater if radiation remained stable. The temperature rise
+observed at our site was unlikely caused by the local air pollution,
+because these warming trends are consistent with temperature
+increases found elsewhere in the Philippines and globally (11, 15).
+Increase in night temperature was also observed at the Philippine
+Rice Research Institute Research Farm (Mun
+˜oz, Nueva Ecija,
+Philippines). Mean minimum temperature during the dry season
+increased 0.052°C per year at that site.
+In the dry season, maximum temperature was not related to grain
+yield (P ⫽ 0.65; Fig. 2A). There was a negative relationship between
+grain yield and minimum temperature (P ⬍ 0.01) and a positive
+relationship between grain yield and radiation (P ⬍ 0.05; Fig. 2 D
+and G). Grain yield was related more closely to minimum temperature than radiation; ⬇77% and 54% of yield variation was explained by minimum temperature and radiation, respectively. The
+partial-correlation coefficient between grain yield and minimum
+temperature with radiation held constant was ⫺0.72. The partialcorrelation coefficient between grain yield and radiation with
+minimum temperature held constant was 0.20. This partialcorrelation analysis indicates that increases in night temperature,
+although small in magnitude, had a negative effect on the yield of
+irrigated rice in the dry season and that the effect was independent
+of radiation. In the wet season, grain yield and yield attributes were
+not related to minimum temperature, maximum temperature, or
+radiation (P ⬎ 0.10), which could be partially because of less
+year-to-year variability in temperature and radiation in the wet
+season than in the dry season from 1992 to 2003. For example, the
+range in seasonal mean minimum temperature was 1.8°C in the dry
+season and 0.6°C in the wet season from 1992 to 2003. Furthermore,
+the occurrence of typhoons in the wet season caused crop lodging
+in some years, which could weaken the relationship between yield
+and climatic parameters.
+There was a strong negative linear relationship between aboveground total biomass at maturity, including both grain and straw,
+and minimum temperature over a very narrow range of minimum
+temperature (⬍2°C) in the dry season (P ⬍ 0.01; Fig. 2E). Biomass
+production decreased by ⬇10% for each 1°C increase in minimum
+temperature. There was no significant relationship between cropgrowth duration and minimum temperature (P ⫽ 0.14). Therefore,
+the reduction in biomass production with warm nights was not
+associated with a decrease in growth duration. As was the case for
+grain yield, total biomass was not related as closely to radiation as
+it was to minimum temperature (Fig. 2 E and H), and there was no
+significant relationship between maximum temperature and total
+biomass (P ⫽ 0.91; Fig. 2B).
+There was a tight negative linear relationship between spikelets per m2 and minimum temperature in the dry season (P ⬍
+0.01; Fig. 2F ). Also, similar to grain and biomass yields, spikelets
+per m2 were not as closely associated with radiation as with
+minimum temperature (Fig. 2 F and I), and there was no
+significant relationship between maximum temperature and
+Peng et al.
+
+spikelets per m2 (P ⫽ 0.37; Fig. 2C). Panicles per m2 were
+negatively related to minimum temperature (P ⬍ 0.01) but not
+to radiation or maximum temperature (P ⬎ 0.10). Other yield
+components such as spikelets per panicle, grain-filling percentage, and grain weight were not related to minimum or maximum
+temperature or radiation (P ⬎ 0.10).
+There was a significant negative relationship between minimum temperature and harvest index in the dry season (P ⬍ 0.05).
+Therefore, grain yield decreased by at least 10% for each 1°C
+increase in growing-season minimum temperature. Daily mean
+temperature is generally calculated as the average of minimum
+and maximum temperatures. Because the increase in mean
+minimum temperature was ⬎3-fold greater than the increase in
+mean maximum temperature, we conclude that rice grain yield
+declined by ⬇15% for each 1°C increase in growing-season mean
+temperature. This magnitude of grain-yield reduction from an
+increase in mean daily temperature is similar to the 17% decline
+per degree in a regression study of trends in climate and United
+States maize and soybean yields from 1982 to 1998 (12).
+Our study confirms predictions from simulation studies (8, 16,
+17) of substantial yield reductions caused by higher mean daily
+Peng et al.
+
+temperature. However, yield reductions caused by global warming
+predicted by simulation tend to be smaller. For example, the
+simulated yield reduction from a 3°C rise in mean daily temperature
+was ⬇16% for maize, wheat, sorghum, and soybean in the central
+United States. (16). For rice, simulated yield potential in the major
+rice-growing regions of Asia with present atmospheric CO2 concentration decreased by 7% for every 1°C rise above current mean
+temperature (17).
+Most studies of temperature and global warming effects on
+crop growth and grain yield are based on daily mean air
+temperature, which assumes no difference in the influence of day
+versus night temperature. Such was the case for the simulation
+studies cited above. A few studies have examined the differential
+effects of changes in maximum and minimum temperatures on
+crop yields. For wheat, the negative effects of a rise in mean air
+temperature on simulated yields were smallest when the minimum temperature increased more than maximum temperature
+(18). Although a negative effect of increased night temperature
+on grain yield was reported for maize, wheat, and soybeans (19),
+the effects were not compared with the effect of comparable
+increases in day temperature. In a growth-chamber experiment,
+PNAS 兩 July 6, 2004 兩 vol. 101 兩 no. 27 兩 9973
+
+AGRICULTURAL
+SCIENCES
+
+Fig. 1. Trends in maximum and minimum temperatures and radiation from 1979 to 2003 for the whole year (A–C), dry season (January to April) (D–F), and wet
+season (June to September) (G–I) at the IRRI Farm. Trends (slopes) for the maximum temperature in A, D, and G and radiation in F are not statistically significant
+at the P ⬍ 0.05 probability level according to the Student’s t test.
+
+Fig. 2. The relationship between rice-yield attributes (grain yield, above-ground total biomass, and spikelets per m2) and growing-season mean maximum
+temperature (A–C), minimum temperature (D–F), or radiation (G–I). Yield-attribute data were obtained from irrigated field experiments in which cropmanagement practices were optimized to achieve the highest possible yields from rice cultivar IR72 at the IRRI Farm in the dry seasons from 1992 to 2003.
+Growing-season mean maximum and minimum temperatures and radiation were calculated from daily values for the entire growing season from transplanting
+to harvest.
+
+increasing night temperature from 21 to 29°C at a constant day
+temperature of 29°C reduced total biomass production of rice
+plants by ⬇20%, but the difference was statistically insignificant
+(20). At a constant day temperature of 33°C, increasing night
+temperature from 25 to 33°C resulted in a significant reduction
+in grain-filling percentage and grain yield.
+This report provides direct evidence of decreased rice yields from
+increased night temperature associated with global warming. The
+physiological mechanisms that caused the observed decrease in rice
+yield and the differential effect of increases in night versus day
+temperature are unknown. Although the physiological effects of
+extremely high temperature on rice yield are well understood (21,
+22), the effects of small increases in temperature associated with
+global warming are poorly understood. We know that plant maintenance respiration increases with increasing temperature (23, 24)
+and that a greater rate of maintenance respiration reduces the
+amount of assimilates available for growth and yield (25). However,
+reported yield reductions in maize, wheat, and soybeans under
+increased night temperature cannot be fully explained by effects on
+9974 兩 www.pnas.org兾cgi兾doi兾10.1073兾pnas.0403720101
+
+respiration (19). Plant acclimation to warmer night temperature
+may explain the relatively small increase in respiration (26, 27).
+Other mechanisms also may contribute to the observed yield
+reduction such as differential effects of night versus day temperature on tillering, leaf-area expansion, stem elongation, grain filling,
+and crop phenological development. If so, current crop-growth
+models will need further refinement to account for the differential
+effects of minimum and maximum temperatures on respiration,
+morphological traits, and phenological development and thus more
+accurately simulate the influence of increased temperature under
+climate-change scenarios (28). The results of this study highlight the
+need for greater fundamental understanding of the effects of night
+temperature on physiological processes governing crop growth and
+yield development.
+We thank A. Dobermann, K. S. Fischer, A. M. Ismail, J. K. Ladha, R. S.
+Loomis, C. Rosenzweig, L. Wade, and I. Woodward for providing input
+on an earlier draft of this manuscript and the International Rice
+Research Institute and the Agricultural Research Division of the University of Nebraska for support.
+Peng et al.
+
+15. Pathak, H., Ladha, J. K., Aggarwal, P. K., Peng, S., Das, S., Singh, Y., Singh,
+B., Kamra, S. K., Mishra, B., Sastri, A. S. R. A. S., et al. (2003) Field Crops Res.
+80, 223–234.
+16. Brown, R. A. & Rosenberg, N. J. (1997) Agric. For. Meteorol. 83, 171–203.
+17. Matthews, R. B., Kropff, M. J., Horie, T. & Bachelet, D. (1997) Agric. Syst. 54,
+399–425.
+18. Rosenzweig, C. & Tubiello, F. N. (1996) Agric. For. Meteorol. 80, 215–230.
+19. Peters, D. B., Pendleton, J. W., Hageman, R. H. & Brown, C. M. (1971) Agron.
+J. 63, 809.
+20. Ziska, L. H. & Manalo, P. A. (1996) Aust. J. Plant Physiol. 23, 791–794.
+21. DeDatta, S. K. (1981) Principles and Practices of Rice Production (Wiley, New
+York).
+22. Horie, T., Baker, J. T., Nakagawa, H., Matsui, T. & Kim, H. Y. (2000) in
+Climate Change and Global Crop Productivity, eds. Reddy, K. R. & Hodges,
+H. F. (CAB International, Wallingford, U.K.), pp. 81–106.
+23. Long, S. P. (1991) Plant Cell Environ. 14, 729–739.
+24. Amthor, J. S. (2000) Ann. Bot. (London) 86, 1–20.
+25. Monteith, J. L. (1981) Q. J. Roy. Meteorol. Soc. 107, 749–774.
+26. Ziska, L. H. & Bunce, J. A. (1998) Glob. Change Biol. 4, 637–643.
+27. Gifford, R. M. (1995) Glob. Change Biol. 1, 385–396.
+28. Bouman, B. A. M., Kropff, M. J., Tuong, T. P., Wopereis, M. C. S., ten Berge,
+H. F. M. & van Laar, H. H. (2001) ORYZA2000: Modeling Lowland Rice
+(International Rice Research Institute, Los Banos, Philippines).
+
+AGRICULTURAL
+SCIENCES
+
+1. Rosegrant, M. W., Sombilla, M. A. & Perez, N. (1995) Food, Agriculture and
+the Environment Discussion Paper No. 5 (International Food Policy Research
+Institute, Washington, DC).
+2. Cassman, K. G. (1999) Proc. Natl. Acad. Sci. USA 96, 5952–5959.
+3. Tilman, D., Cassman, K. G., Matson, P. A., Naylor, R. & Polasky, S. (2002)
+Nature 418, 671–677.
+4. Evans, L. T. & Fischer, R. A. (1999) Crop Sci. 39, 1544–1551.
+5. Yoshida, S. (1981) Fundamentals of Rice Crop Science (International Rice
+Research Institute, Los Banos, Philippines).
+6. Baker, J. T., Allen, L. H., Jr., & Boote, K. J. (1990) J. Agric. Sci. 115, 313–320.
+7. Maggs, R. & Ashmore, M. R. (1998) Environ. Pollut. 103, 159–170.
+8. Rosenzweig, C. & Parry, M. L. (1994) Nature 367, 133–138.
+9. Intergovernmental Panel on Climate Change (1995) in Climate Change 1995:
+The Science of Climate Change, eds. Houghton, J. T., Meira Filho, L. G., Bruce,
+J., Lee, H., Callender, B. A., Haites, E., Harris, N. & Maskell, K. (Cambridge
+Univ. Press, Cambridge, U.K.).
+10. Karl, T. R., Kukla, G. & Razuvayev, V. N. (1991) Geophys. Res. Lett. 18,
+2253–2256.
+11. Easterling, D. R., Horton, B., Jones, P. D., Peterson, T. C., Karl, T. R., Parker,
+D. E., Salinger, M. J., Razuvayev, V., Plummer, N., Jamason, P., et al. (1997)
+Science 277, 364–367.
+12. Lobell, D. B. & Asner, G. P. (2003) Science 299, 1032.
+13. Stooksbury, D. E. & Michaels, P. J. (1994) Agron. J. 86, 564–569.
+14. SAS Institute (1982) SAS User’s Guide: Statistics (SAS Inst., Cary, NC), 4th ed.
+
+Peng et al.
+
+PNAS 兩 July 6, 2004 兩 vol. 101 兩 no. 27 兩 9975
+
+

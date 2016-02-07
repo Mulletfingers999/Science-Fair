@@ -31,3 +31,11 @@ option[disabled] {
   color:darkgreen;
   cursor: not-allowed;
 }
+
+.edge {
+  position: absolute;
+  right: 2%;
+  width: 250px;
+  border: 2px solid lawngreen;
+  cursor: default !important;
+}
