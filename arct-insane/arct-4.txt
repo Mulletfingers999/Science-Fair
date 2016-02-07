@@ -23,15 +23,6 @@ The present paper, a running commentary on AIT, finds that most of Gore’s clai
 climate science and climate policy are either one sided, misleading, exaggerated, speculative, or
 wrong. An extensive summary of AIT’s distortions is provided in Appendix A. Below is a list of 25
 of egregious examples.
-One-sided statements
-•
-
-•
-•
-•
-
-•
-
 AIT never acknowledges the indispensable role of fossil fuels in alleviating hunger and poverty,
 extending human life spans, and democratizing consumer goods, literacy, leisure, and personal
 mobility.
@@ -47,25 +38,9 @@ The book impugns the motives of so-called global warming skeptics but never ackn
 special-interest motivations of those whose research grants, direct mail income, industrial policy
 privileges, carbon trading commissions, regulatory power, prosecutorial plunder, or political
 careers depend on keeping the public in a state of fear about global warming.
-
-  
-
-1
-
-•
-
 AIT never addresses the obvious criticism that the Kyoto Protocol is all economic pain for no
 environmental gain and that regulations stringent enough to measurably cool the planet would
 be a “cure” worse than the alleged disease.
-
-Misleading statements
-•
-
-•
-•
-
-•
-
 AIT implies that, throughout the past 650,000 years, changes in CO2 levels preceded and largely
 caused changes in global temperature, whereas the causality mostly runs the other way: CO2
 changes followed global temperature changes by hundreds to thousands of years.
@@ -77,14 +52,6 @@ warming is the “consensus” view among scientists.
 It reports that 48 Nobel Prize-winning scientists accused Bush of distorting science, without
 mentioning that the scientists acted as members of a 527 political group set up to promote the
 Kerry for President Campaign.
-
-Exaggerated statements
-•
-•
-•
-
-•
-
 AIT hypes the importance and exaggerates the certainty of the alleged link between global
 warming and the frequency and severity of tropical storms.
 It claims polar bears “have been drowning in significant numbers,” based on a single report that
@@ -95,18 +62,6 @@ Island”—as harbinger of doom. For perspective, the Larson-B was 220th the si
 AIT presents a graph suggesting that China’s new fuel economy standards are almost 30% more
 stringent than the current U.S. standards. In fact, the Chinese standards are only about 5%
 more stringent.
-
-Speculative statements
-•
-•
-•
-
-•
-
-•
-
-2
-
 AIT blames global warming for the record-breaking 37-inch downpour in Mumbai, India, in
 July 2005, even there has been no trend in Mumbai rainfall for the month of July in 45 years.
 It blames global warming for recent floods in China’s Sichuan and Shandong provinces, even
@@ -123,24 +78,10 @@ It warns of “significant and alarming structural changes” in the submarine b
 but does not tell us what those changes are or why they are “significant and alarming.” The
 WAIS has been retreating since the early Holocene. At the rate of retreat observed in the 1990s,
 the WAIS should disappear in about 7,000 years.
-  
-
-•
-
 It warns that “moulins”—vertical water tunnels formed from surface melt water—could cause
 half the Greenland Ice Sheet to break off and “slide” into the sea, even though the scientific
 study to which Gore alludes found that moulins increase glacial flow by only a few meters a
 year.
-
-Wrong statements
-•
-
-•
-•
-•
-
-•
-
 AIT claims glaciologist Lonnie Thompson’s reconstruction of climate history proves the
 Medieval Warm Period was “tiny” compared to the warming observed in recent decades. It
 doesn’t. Four of Thompson’s six ice cores indicate the Medieval Warm Period was as warm as
@@ -154,16 +95,8 @@ Tornado frequency has not increased; rather, the detection of smaller tornadoes 
 If we consider the tornadoes that have been detectable for many decades (F-3 or greater), there
 is actually a downward trend since 1950.
 It blames global warming for a “mass extinction crisis” that is not, in fact, occurring.
-
 In light of these and other distortions, AIT is ill-suited to serve as a guide to climate science and
 climate policy for the American people.
-
-  
-
-3
-
-Introduction
-
 More people will see the movie, An Inconvenient Truth (AIT), than will read the book. However, the two
 are so close in verbal content and visual imagery that, if you’ve seen the movie, you’ve practically read
 the book, and vice versa. Because it is much easier to reference pages in a book than scenes from a movie,
@@ -188,13 +121,6 @@ makes and images it presents. A typical audience reaction is to conclude that if
 says is true, then the planet is in serious trouble. So I decided to take a leaf out of Gore’s playbook. By the
 sheer number of errors and distortions I have uncovered, I hope to foster a healthy skepticism about
 global warming alarmism and the energy suppression agenda it allegedly justifies.
-
-  
-
-5
-
-Chapter I: Greenhouse Basics
-
 AIT: “The atmosphere is thin enough that we are capable of changing its composition.…
 In particular, we have vastly increased the amount of carbon dioxide—the most important
 of the so-called greenhouse gases.” (AIT, p. 25)
@@ -255,21 +181,11 @@ other fruit.7
 In short, we find error, rhetorical manipulation, exaggeration, and rank selectivity in what should be a
 straightforward overview of greenhouse basics. This does not inspire confidence that subsequent, more
 complex topics will receive a balanced treatment.
-
-8
-
-  
-
-Chapter II: Mountain Glaciers
-
 AIT: “It is evident in the world around us that very dramatic changes are taking place.
 This is Mount Kilimanjaro in 1970 with its fabled snows and glaciers. Here it is just 30
 years later—with far less ice and snow.... He [glaciologist Lonnie Thompson of Ohio
 State University] predicts that within 10 years there will be no more ‘Snows of
 Kilimanjaro.’” (AIT, pp. 42-45)
-
-Mount Kilimanjaro: 1970, 2004
-
 Comment: There is no question that “dramatic changes” are taking place in mountain glaciers. But it
 does not necessarily follow that dramatic changes are occurring in global climate. Small changes in
 temperature can produce rather large changes in mountain glaciers. So can changes in regional
@@ -286,11 +202,7 @@ is shrinking but it is not melting.
 What then is causing the ice cap to disappear? Kaser et al. (2004) examined glacial retreat on three East
 African massifs, Rwenzori, Mount Kenya, and Kilimanjaro.9 They found that a “drastic dislocation”
 occurred around 1880, when the region shifted from a “very humid” to a dry climate. This meant less
-  
-
-9
-
-cloud cover, exposing the glacier to more direct sunlight, and less snowfall to replace the sublimating
+cloud cover, exposing the glacier to more direct sunlight, and less snowfall to replace the sublimating
 (evaporating) ice. In the words of Kaser and colleagues: “The dominant reasons for this strong recession
 [of all glaciers in equatorial East Africa] in modern times are reduced precipitation and increased
 availability of shortwave radiation due to decreases in cloudiness.” They emphasize: “In contrast to the
@@ -298,64 +210,37 @@ availability of shortwave radiation due to decreases in cloudiness.” They emph
 of Mount Kenya and in the Rwenzori Mountains seem to have responded clearly to this change in
 moisture by retreating drastically and in spatially differential patterns.” The Figure below shows the
 decline in glacier surface area due to the regional “switch” in moisture conditions.
-
 Time series of glacier surface areas on Mt. Kenya (open circles), Mt. Kilimanjaro (closed circles), and in the Rwenzori
 Mountains (crosses)
 Source: Kaser et al. (2004)
-
 It is worth emphasizing that 1880 is decades before industrial CO2 emissions could have had much impact
 on global climate. Carbon dioxide levels at that time were approximately 290 parts per million (ppm),
 only slightly above pre-industrial levels (280 ppm).10 See the Figure below.
-
 CO2 levels over the past millennium
 Source: Center for the Study of Carbon Dioxide and Global Change, derived from Ethridge et al. (1998)
-
-10
-
-  
-
-Analyzing the Kaser et al. study, climatologist Patrick Michaels observes that the Kilimanjaro glacier
+Analyzing the Kaser et al. study, climatologist Patrick Michaels observes that the Kilimanjaro glacier
 retreated in periods of both global warming and cooling. During the warming of the first part of the 20th
 century, Kilimanjaro lost 45% of its cap. During 1953 to 1976, when the planet was cooling, Kilimanjaro
 lost another 21%. Since 1976, in the era of significantly elevated CO2 levels, the glacier lost another
 12%—“the slowest melt rate of the last 100 years.”11
 Since 1978, satellite measurements of Kilimanjaro air temperatures show a minuscule trend of +0.01
 C/decade, essentially zero. See the Figure below.
-
 Satellite-sensed temperatures in Kilimanjaro's neighborhood show no detectable warming since records began in late 1978.
 Source: John Christy
-
 Two key conclusions emerge. First, the Snows of Kilimanjaro would still be disappearing even in the
 absence of anthropogenic global warming. As one recent study concluded, “Rather than changes in 20th
 century climate being responsible for their demise, glaciers on Kilimanjaro appear to be remnants of a
 past climate that was once able to sustain them.”12 Second, no change in energy policy can save the
 glacier or could have saved it even if implemented decades ago.
-
 AIT: “Our own Glacier National Park will soon need to be renamed ‘the park formerly
 known as Glacier.’” (AIT, p. 46)
 Comment: Glacier Park’s glaciers mostly melt in the summer months, and from 1888-2000, temperatures
 in the vicinity of Glacier Park show no trend in June, a slight cooling trend in July, and a slight warming
 trend in August. See the Figures for July and August, below.
-
-  
-
-11
-
-1868-2000 Mean July, August Temperatures in the vicinity of Glacier National Park
-Source of data: Kalispell, Station, MT (from the United States Historical Climatology Network dataset)
-
 As in the case of Kilimanjaro, Glacier Park’s glaciers have been retreating long before anthropogenic
 global warming could have had much of an impact on them. Writing in 1952, more than a half-century
 ago, Dightman and Beatty report on the results of an aerial mapping program initiated in 1950 that
 compared the new photographs with earlier glacial mapping efforts.13 Here are a few highlights:
-•
-•
-
-•
-•
-•
-•
-
 “Grinell Glacier appears to have followed very well the pattern of decrease in glacier size observed
 over the world in general for the last 70 to 80 years.”
 “Dr. William C. Alden, of the United States Geological Survey, made the first comprehensive study
@@ -369,7 +254,6 @@ all have been rapidly depleted in both area and volume.”
 existence and others are either inactive or too small to be considered true glaciers.”
 “All glaciers lost at least 50 percent of their surface area in the 50-year period following the turn of
 the present [20th] century; some lost as much as 80 percent, and several disappeared entirely.”
-
 A few years prior to Dightman and Beatty’s 1952 report, the climate of western Montana turned cooler
 and wetter and the glaciers in Glacier National Park stopped receding and began to grow again—until
 about the mid-1970s. Studying the phenomenon of the ebb and flow of Glacier National Park’s glaciers,
@@ -380,42 +264,23 @@ cool/wet summers coupled with high snowpack. Post 1850, glacial retreat coincide
 an extended period (>50 yr) of summer drought and low snowpack culminating in the
 exceptional events of 1917 to 1941 when retreat rates for some glaciers exceeded 100
 m/yr. This research highlights potential local and ocean-based drivers of glacial
-
-12
-
-  
-
-dynamics, and difficulties in separating the effects of global climate change from regional
+dynamics, and difficulties in separating the effects of global climate change from regional
 expressions of decadal-scale climate variability.
-
 Index of glacial mass balance potential for Glacier National Park. Mass balance potential based on proxy data (red
 and blue fill) and instrumental data (dotted black line), which are shown.
 Source: Pedersen et al. (2004)
-
 AIT: “Almost all of the mountain glaciers in the world are now melting, many of them
 quite rapidly. There is a message in this.” (AIT, p. 48)
 Comment: Gore illustrates this statement with a two-page photograph of the Perito Moreno Glacier, in
 Patagonia, Argentina, similar to the image immediately below.15
-
-Perito Moreno Glacier
-
 The photograph shows where the giant glacier terminates and flows into Lake Argentino, creating the
 impression—thanks to Gore’s caption—that Perito Moreno is literally melting away. But the picture does
 not show what Gore says it shows, because the glacier is not shrinking! Perito Moreno is famous for
-  
-
-13
-
-being in a state of dynamic equilibrium, continually advancing and then unpredictably shedding ice via
-spectacular calving events.16
-
-AIT: “The red lines show how quickly the Columbia Glacier in Alaska has receded since
+being in a state of dynamic equilibrium, continually advancing and then unpredictably shedding ice via
+spectacular calving events.16 AIT: “The red lines show how quickly the Columbia Glacier in Alaska has receded since
 1980.” (AIT, p. 50)
 AIT presents a picture similar to the one below.
-
-Recession of the Columbia Glacier
-
-Comment: It is unclear to what extent CO2-induced warming is responsible for the Columbia Glacier’s
+It is unclear to what extent CO2-induced warming is responsible for the Columbia Glacier’s
 recession.
 First, like the Snows of Kilimanjaro and Glacier Park’s glaciers, the Columbia Glacier has been shrinking
 since the early 20th century or before—prior to the rapid buildup in CO2 levels. According to Pelto and
@@ -425,15 +290,9 @@ occurred before the major buildup in CO2 levels. Pelto and Hartzell also note th
 lost ice even during 1950-1976, “when conditions became cooler and precipitation increased.”
 Second, during the past 55 years, there has been no overall temperature trend in the Prince William Sound
 area, where the Columbia Glacier resides.
-
-14
-
-  
-
-The annual temperature history of Southeastern Alaska (the average of observations taken at Annette Island, Sitka,
+The annual temperature history of Southeastern Alaska (the average of observations taken at Annette Island, Sitka,
 Juneau, and Yakutat, whenever available) shows no long-term trend.
 Source: Patrick Michaels
-
 AIT: “Everywhere in the world the story is the same, including in the Andes in South
 America.” (AIT, p. 52)
 Comment: Andean glaciers have been in retreat for 150 years, ever since the world emerged from the
@@ -455,50 +314,23 @@ rest of the world) would only mark a return to more typical Holocene (or current
 temperatures, which have themselves been significantly lower than those of all four prior interglacials.”20
 Although a greenhouse “signal” may be detectable in the post-1970 period, the Peruvian Andes were
 warmer during the mid-1940s, when CO2 levels were lower. See the Figure below.
-
-  
-
-15
-
-Land Temperatures, Peruvian Andes
-Source: John Christy
-
 AIT should at least mention that changes in solar activity may account for much of the warming of the past
 century and, thus, for part of the observed changes in mountain glaciers. For example, Scafetta and West
 (2006) find a strong correlation between Northern Hemisphere temperature over the past 400 years and three
 reconstructions of total solar irradiance (TSI) during the same period.21 See the Figure below.
-
-Parallel trends in solar irradiance and Northern Hemisphere temperatures
-Scafetta and West (2006)
-
 The authors note that there is “good agreement between the patterns [of temperature and solar irradiance]
 for the three pre-industrial era centuries,” and that during the 20th century “one continues to observe a
 significant correlation between the solar and temperature patterns: both records show an increase from
-16
-
-  
-
-1900 to 1950, a decrease from 1950 to 1970, and again an increase from 1970 to 2000.” Although
+1900 to 1950, a decrease from 1950 to 1970, and again an increase from 1970 to 2000.” Although
 Scafetta and West believe that global warming since 1975 has occurred too quickly to be explained by
 solar variability, they conclude that “the sun might have contributed approximately 50% of the total
 global surface warming since 1900.”
-
 AIT: “This beautiful image of a magnificent glacier in Patagonia, on the tip of South
 America, shows how it stood 75 years ago. That vast expanse of ice is now gone.”
 (AIT, p. 54)
-
-Upsala Glacier, Patagonia, Argentina, 1928, 2004.
-
-Comment: A quibbler might fault Gore for not mentioning Pio XI, the largest Patagonian glacier, which is
+A quibbler might fault Gore for not mentioning Pio XI, the largest Patagonian glacier, which is
 advancing and is “larger now than at any time in the last 6,000 years.”22 See the image below.
-
-Glacier Pio XI
-
-  
-
-17
-
-However, of 63 large Patagonian glaciers, only Pio XI and Perito Moreno are not retreating, and only Pio
+However, of 63 large Patagonian glaciers, only Pio XI and Perito Moreno are not retreating, and only Pio
 XI is growing. The general pattern is one of glacial retreat and thinning. Although other factors, such as
 decreased precipitation, are also at work, the predominant influence is global warming.23 Gore is correct
 about that.
@@ -530,7 +362,6 @@ AIT allows or encourages the reader to assume that the 1928 photo shows the Upsa
 “normal” condition—its baseline state. Too bad there are no photographs of Upsala from the Medieval
 Warm Period, the Roman Warm Period, and the Holocene Climate Optimum. We might then find that
 what we see in Gore’s 2004 photo is nothing new under the Sun.
-
 AIT: “Throughout the Alps we are witnessing a similar story [of disappearing glaciers].”
 (AIT, p. 56)
 Comment: That is correct. Alpine glaciers have been in retreat since the world began to emerge from the
@@ -539,31 +370,19 @@ glaciers in the European Alps have lost about half their total volume (roughly -
 1850 and 1975, another 25% (or -1% per year) of the remaining amount between 1975 and 2000, and
 additional 10 to 15% (or -2 to -3% per year) in the first five years of this century.”26 Ice loss is
 accelerating both because Northern hemisphere temperatures increased since the mid-1970s and because
-
-18
-
-  
-
-of local positive feedback effects—i.e., shrinking glaciers reflect less sunlight and expose more dark areas
+of local positive feedback effects—i.e., shrinking glaciers reflect less sunlight and expose more dark areas
 to sunlight, warming their surroundings.
 Several smaller Alpine glaciers advanced during the 1970s and 1980s—an effect of global cooling, global
 “dimming” (a decrease in solar radiation reaching the Earth’s surface),27 or both. Similarly, many glaciers
 in Europe and around the world advanced during the LIA. Global cooling is “good” for glaciers. But is it
 good for people?
 Here is a photograph of the Swiss Argentiere glacier in 1966:
-
 Here is an illustration of the same glacier in 1850:
-
 As Patrick Michaels likes to ask about the 1850 illustration, “What are these people praying for in this
 church? They’re praying that the glacier does not destroy their town.”
 Many of the larger Alpine glaciers reached their maximum extent during the Little Ice Age. If the LIA
 had continued for another 150 years, through the end of the 20th century, those glaciers would likely have
-
-  
-
-19
-
-grown beyond the dimensions they reached in 1850. AIT never faces the possibility that retreating glaciers
+grown beyond the dimensions they reached in 1850. AIT never faces the possibility that retreating glaciers
 may be a price we must pay to avoid a much worse condition: global cooling.
 At a minimum, AIT should acknowledge the difficulty of assessing the relative contributions of Man and
 Nature to current Alpine glacier retreat. Holzhauser et al. (2005) found that the Great Aletsch Glacier, the
@@ -578,7 +397,6 @@ These findings raise obvious questions. If the Great Aletsch glacier receded mor
 and the Reign of the Caesars than it has in recent years, how can we be sure that CO2 emissions are the
 chief cause of current Alpine glacier retreat? Is there evidence that people in ancient times suffered as a
 consequence of the glacier’s retreat or the warming that produced it?
-
 AIT: “The Himalayan Glaciers on the Tibetan Plateau …contain 100 times as much ice
 as the Alps and provide more than half of the drinking water for 40% of the world’s
 population—through seven Asian river systems that all originate on the same plateau.
@@ -587,95 +405,9 @@ drinking water shortage, unless the world acts boldly and quickly to mitigate gl
 warming.” (AIT, p. 58)
 Comment: Again, to what extent is glacial retreat in the Himalayas due to rising CO2 levels versus
 natural climate variability? The image below shows that considerable glacial retreat occurred before 1935.
-
-Composite ASTER image showing retreat of the Gangotri Glacier terminus in the Garhwal Himalaya since 1780
-Source: Land Processes Distributed Active Archive Center31
-
-20
-
-  
-
-As regards Gore’s claim that global warming will cause water shortages, the water that feeds Asia’s river
+As regards Gore’s claim that global warming will cause water shortages, the water that feeds Asia’s river
 systems comes from melting snow, not from melting glacial ice. Data going back four decades show no
 trend in Eurasian snow cover for the months of November, December, January, February, and March.
-
-Amount of Snow Cover in Eurasia from 1967-2005
-35000000
-
-Million sq. km
-
-30000000
-25000000
-
-Nov. fall
-Dec. fall
-Jan. fall
-Feb. fall
-Mar. fall
-
-20000000
-15000000
-10000000
-5000000
-
-03
-
-00
-
-20
-
-97
-
-20
-
-94
-
-19
-
-91
-
-19
-
-88
-
-19
-
-85
-
-19
-
-82
-
-19
-
-79
-
-19
-
-76
-
-19
-
-73
-
-19
-
-70
-
-19
-
-19
-
-19
-
-67
-
-0
-
-Year
-
-Figure is based on data from Rutgers University Global Snow Lab32
-
 A recent study of Chinese snow cover found a “generally positive” trend over Western China during 1951
 to 1997. Over the southern half of the study area—the Tibetan Plateau—the researchers found that
 “annual cumulative daily snow depth increased by 2.3% per year.”33
@@ -691,28 +423,15 @@ come.35 Moreover, atmospheric CO2 levels are bound to increase for decades, rega
 policies governments adopt. Therefore, CO2 regulations would provide little if any protection from
 potential water shortages in Asia during the next half-century. Such policies might even be counterproductive, not only by diverting attention and resources from more effective water management options,
 but also by suppressing the economic growth required to sustain investment in critical infrastructure.
-
-  
-
-21
-
-To sum up, AIT ignores scientific studies that find a large role of natural variability in the shrinking of
+To sum up, AIT ignores scientific studies that find a large role of natural variability in the shrinking of
 mountain glaciers, never explains why we should prefer glacial growth (global cooling) to glacial retreat
 (global warming), warns of an impending global warming-induced water shortages in Asia for which
 there is no evidence, and hugely exaggerates the ability of energy-rationing schemes to avert or mitigate
 water shortages in the policy-relevant future.
-
-22
-
-  
-
-III. Climate Reconstructions from Proxy Data
-
 AIT: “…the so-called global warming skeptics often say that global warming is really an
 illusion reflecting nature’s cyclical fluctuations.” (AIT, p. 64)
 Comment: Some so-called skeptics doubt that the current warming is entirely or mainly driven by rising
 CO2 levels. That does not mean they view global warming as an “illusion.”36
-
 AIT: “To support their view, they [the skeptics] frequently refer to the Medieval Warm
 Period. But as Dr. [Lonnie] Thompson’s thermometer [analysis of the ratio of oxygen-16
 to oxygen-18 in ice cores] shows, the vaunted Medieval Warm Period (the little red blip
@@ -733,15 +452,6 @@ reflect changes in precipitation rather than changes in temperature.39
 Even if Thompson’s “thermometer” is accurate, the conclusion that Gore draws from it is questionable.
 Of the three Tibetan ice cores Thompson examined, the Dunde and Guliya sites actually depict several
 decadal periods of the past that were as warm as or warmer than the last few decades of the 20th century.
-See the Figure below on the Guliya ice core.40
-
-  
-
-23
-
-Guliya ice core
-Source: Center for the Study of Carbon Dioxide
-
 Because the Dasuopo site shows a much more dramatic difference in the opposite direction, it rules the
 average result. This is the correct way to average, but averaging would not be necessary if a reliable
 reconstruction could be derived from a single site. Without many additional observations, it is impossible
@@ -749,17 +459,9 @@ to know whether Thompson’s average is truly representative or is skewed by a s
 Similarly, of the three Andean ice cores Thompson examined, the Quelccaya and Sajema sites show
 greater warming in past centuries than in the 20th century. See the Figure below on the Quelccaya ice
 core.
-
-Quelccaya ice core
-Source: Center for the Study of Carbon Dioxide
-
 In short, only two of Thompson’s six sites show recent temperatures to be greater than earlier
 temperatures.
-24
-
-  
-
-Developing an accurate temperature history of past millennia requires many results from all around the
+Developing an accurate temperature history of past millennia requires many results from all around the
 world using many types of proxy data. Numerous records indicate that the Medieval Warm Period and the
 earlier Roman Warm Period were as warm as or warmer than the current warm period. The Center for the
 Study of Carbon Dioxide and Global Change has reviewed literally scores of such studies. A survey
@@ -770,7 +472,6 @@ study by Polissar and colleagues indicates that the Andes region was warmer duri
 Period than it is today. Bao et al. (2003), analyzing isotopic oxygen ratios and other proxy data, found
 that each part of the Tibetan Plateau (northeastern, southern, and western) had at least one 50-year period
 during the last 2000 years when the mean temperature was warmer than it was during the last 50 years.42
-
 AIT: “Those global warming skeptics…launched a fierce attack against another
 measurement of the 1,000-year correlation between CO2 and temperature known as “the
 hockey stick,” a graphic image representing the research of climate scientist Michael
@@ -784,28 +485,15 @@ Climate Variability and Change”), and again in the Synthesis Report. The hocke
 the IPCC’s claim (Summary for Policymakers, p. 3) that “the 1990s [likely] have been the warmest
 decade and 1998 the warmest year of the millennium.” Unsurprisingly, the hockey stick (see the Figure
 below) became an instant poster child for global warming alarmism and pro-Kyoto advocacy.
-
-The Hockey Stick
-Source: IPCC
-
 The hockey stick reconstruction depicted a relatively stable climate with a slight cooling trend from 1000
 A.D. to 1900 (the shaft), and then a sharp upward spike in the 20th century (the blade). Two Canadians,
 Stephen McIntyre and Ross McKitrick (M&M), published two critiques of the hockey stick in Energy &
 Environment in 2003 and a third critique in Geophysical Research Letters in 2005.43 Among other
-
-  
-
-25
-
-weaknesses, M&M found that Mann, Bradley, and Hughes (MBH) “de-centered” their proxy data,
+weaknesses, M&M found that Mann, Bradley, and Hughes (MBH) “de-centered” their proxy data,
 picking a mean that inflates the importance of data generating hockey stick shapes.44
 At the request of the House Energy and Commerce Committee, Dr. Edward J. Wegman of George Mason
 University’s Center for Computational Statistics assembled a team of statisticians to assess M&M’s
 critique of MBH’s data and methods.45 The Wegman team found that:
-•
-•
-•
-
 “The net effect of this decentering using the proxy data in MBH98 and MBH99 is to produce a
 hockey stick shape.”
 “In general, we found the writings of MBH98 and MBH99 to be somewhat obscure and incomplete
@@ -813,7 +501,6 @@ and the criticisms of M&M03/03a/05a to be valid.”
 “Overall, our committee believes that the MBH99 assessment that the decade of the 1990s was likely
 the hottest decade of the millennium and 1998 was likely the hottest year of the millennium cannot be
 supported by their analysis.”
-
 Gore suggests that MBH’s analytic shortcomings do not matter, because other scientists have confirmed
 their results. But as M&M pointed out, and as Wegman confirmed, those other scientists often work with
 Mann, and tend to use the same datasets. Because of these connections and shared proxies, the other
@@ -821,10 +508,6 @@ studies might not be as independent as they appear to be.
 Far from being settled that the Medieval Warm Period was tiny compared to the current warming, a recent
 reconstruction of Northern Hemisphere climate history shows a pronounced Little Ice Age preceded by a
 Medieval Warm Period that is warmer than the present.46 See the Figure below.
-
-Reconstruction of Northern Hemisphere temperature history from diatoms (plankton sediments)
-Source: Weckström et al. (2006)
-
 AIT: “At no point in the last 650,000 years before the pre-industrial era did the CO2
 concentration go above 300 parts per million…CO2 is now [380 ppm]—way above
 anything measured in the prior 650,000-year record.” (AIT, p. 66)
@@ -832,12 +515,7 @@ Comment: Both claims—that CO2 concentrations “never” rose above 300 ppm in
 and that the current level is “way above anything” measured in the prior 650,000-year record—are
 questionable. Wagner et al. (1999), analyzing the stomatal frequency of birch tree leaves buried in peat
 deposits near Denekamp, in the Netherlands, estimate that CO2 levels during the early Holocene exceeded
-
-26
-
-  
-
-330 ppm for centuries, rising as high as 348 ppm—roughly the CO2 level for 1987.47 The Center for
+330 ppm for centuries, rising as high as 348 ppm—roughly the CO2 level for 1987.47 The Center for
 Carbon Dioxide and Global Change summarizes the Wagner team’s research:
 Atmospheric CO2 concentrations 10,000 years ago were determined to be between 260
 and 265 ppm. Thereafter, they rose to a value near 330 ppm over the course of a
@@ -845,16 +523,13 @@ century. Concentrations remained in the 330 ppm range over the next 300 years,
 whereupon they declined to about 300 ppm. A second sharp increase in atmospheric CO2
 concentration to a maximum value of 348 ppm followed, with concentrations hovering
 between 333 and 347 ppm for the duration of the record.
-
 AIT: “It’s a complicated relationship,” writes Gore, referring to a two-page graph
 showing CO2 levels rising and falling along with global temperatures during the past
 650,000 years, “but the most important part of it is this: When there is more CO2 in the
 atmosphere, the temperature increases because more heat from the Sun is trapped inside.”
 (AIT, p. 67)
-
 AIT’s graph of CO2 levels and global temperatures over the past 650,000 years
-
-Comment: The foregoing statement is carefully parsed. Gore does not actually say that changes in CO2
+The foregoing statement is carefully parsed. Gore does not actually say that changes in CO2
 levels caused the alternation between ice ages and warm interglacial periods, but he allows or even
 encourages readers (or viewers) to draw that conclusion. In reality, global temperature changes preceded
 changes in CO2 levels by hundreds to thousands of years.48
@@ -868,23 +543,11 @@ levels were lower. Gore makes no mention of this, but it is well established in 
 For example, during the peak of the last interglacial period, roughly 130,000 to 127,000 years ago,
 various proxy data indicate that summer surface temperatures in Arctic Canada and Greenland were 45°C warmer than the present, and large portions of Siberia were 4-8°C warmer.52 Multiple ice cores
 indicate that East Antarctica was 2.5°C-5°C warmer than the present.53
-  
-
-27
-
-In short, Gore exaggerates CO2’s importance in Earth’s climate history. Over the past several hundred
+In short, Gore exaggerates CO2’s importance in Earth’s climate history. Over the past several hundred
 thousand years, changes in CO2 levels were chiefly the effect rather than the cause of changes in global
 temperature, the Earth was warmer than it is today during previous interglacial periods when CO2 levels
 were lower, and significant evidence indicates that the Medieval Warm Period was as warm as or warmer
-than the current warm period.
-
-28
-
-  
-
-IV. Global Warming Projections
-
-AIT: “Here’s where CO2 is now [roughly 380 ppm]—way above anything measured in
+than the current warm period.AIT: “Here’s where CO2 is now [roughly 380 ppm]—way above anything measured in
 the prior 650,000-year record. And within 45 years, this is where the CO2 levels will be
 [roughly 620 ppm] if we do not make dramatic changes quickly.” (AIT, p. 65)
 Comment: Gore here tacitly assumes what many climate models unrealistically assume, namely, that
@@ -896,25 +559,15 @@ influence on global temperatures] are ignored…”54
 Since 1977, CO2 levels have been increasing at about 0.45% or 1.5 ppm per year.55 If this 30-year trend
 continues, atmospheric CO2 levels will be about 446 ppm in 2050—a full 174 ppm lower than what Gore
 projects.
-
 There has been no significant trend in the annual growth rate of CO2 concentrations during the past 30 years.
 The average value has been about 0.45%/year (values derived from data available from the
 Carbon Dioxide Information Analysis Center).56
 Source: World Climate Report.57
-
 AIT: “The top right point of this gray line shows current global temperatures and the
 bottom point marks the depth of the last ice age. That short distance—about an inch in
 the graph—represents the difference, in Chicago, between a nice day and a mile of ice
 over your head. Imagine what three times as much on the warm side would mean.” (AIT,
 p. 67)
-A photograph of Gore’s graph appears below.
-
-  
-
-29
-
-AIT’s graph of CO2 levels and global temperatures over the past 650,000 years
-
 Comment: Gore invites us to imagine “three times” as much warming as has occurred since the “depth of
 the last ice age,” because the red line in his chart projects CO2 levels about three times higher than ice-age
 levels by 2050. This thought experiment is unscientific on several counts. First, as we have just seen,
@@ -925,42 +578,22 @@ Third, AIT tacitly assumes a linear relationship between CO2 levels and global t
 every additional increment of CO2 “forces” the climate by as much as the previous increment. In reality,
 the CO2-warming effect is roughly logarithmic, meaning that each 100-ppm increase adds less heat than
 the previous 100-ppm increase.58 See the Figure below.
-
-The CO2-warming effect—diminishing returns
-Figure is derived from IPCC Third Assessment Report, Table 6.2, p. 358.
-
 AIT: “And in recent years the rate of increase has been increasing. In fact, if you look at
 the 21 hottest years measured, 20 of the 21 have occurred within the last 25 years.” (AIT,
 p. 72)
-
-30
-
-  
-
-Comment: There has been no increase in the rate of warming since the mid-1970s, when the second 20th
+Comment: There has been no increase in the rate of warming since the mid-1970s, when the second 20th
 century warming period began. For the past 30 years, the planet has warmed at a remarkably constant rate
 of 0.17°C (or 0.31°F) per decade.
-
-Annual globally averaged temperature anomalies, 1977-2005
-Data Source: Climate Research Unit59
-Figure Source: World Climate Report60
-
 Thus, although 2005 was the second warmest year in the instrumental record, it falls exactly on the
 0.17°C per decade trend line of the past 30 years. No surprise at all.
 As Patrick Michaels has pointed out on many occasions, the constant, or linear, as opposed to
 accelerating, or exponential, rate of warming observed over the past three decades is “by and large the
 same behavior the vast majority of climate models predict the earth’s temperature will display when
 forced with ever increasing amounts of carbon dioxide.”
-
 Temperature projections from a host of different climate models all run under a scenario of atmospheric carbon
 dioxide concentrations increasing at a rate of 1%/year. All but one project constant warming rates.
 Source: IPCC 2001, p. 537
-
-  
-
-31
-
-If the “consensus” among climate models in favor of linear (non-accelerating) warming is correct (and, if
+If the “consensus” among climate models in favor of linear (non-accelerating) warming is correct (and, if
 it isn’t, climate models are not reliable enough to guide policymakers anyway), then we are probably in
 store for about 1.7°C of warming in the 21st century. Several models in the Figure predict more than
 1.7°C of warming. But the models assume that CO2 levels will increase by 1% annually, whereas the
@@ -968,22 +601,13 @@ observed increase, as noted earlier, is only about half that rate—roughly 0.45
 should expect a warming rate that is not only non-accelerating but also lower than what most models
 project. And that is in fact what we find in the instrumental record. The Figure below shows the observed
 warming trend, reflecting the actual rate of CO2 increase, projected into the future.
-
 Reasonable forecast of global warming based on 30 years of data and the linear form of most model projections
 Source: World Climate Report
-
 Gore does not explicitly say how much warming he expects to occur by mid-century. But in asking us to
 imagine “three times as much” warming as has occurred since the last ice age, he clearly implies that
 dramatic increases in average global temperature are in the offing. Both theory (the linear form of most
 model projections) and observation (temperature data of the past 30 years) suggest that the warming of
 the next several decades will be constant and moderate.
-
-32
-
-  
-
-V. Heat
-
 AIT: “We have already begun to see the kind of heat waves that scientists say will
 become much more common if global warming is not addressed. In the summer of 2003
 Europe was hit by a massive heat wave that killed 35,000 people.” (AIT, p. 75)
@@ -1001,22 +625,14 @@ associated with large scale circulation changes.”62
 The death toll in Europe was terrible—but part of the blame falls on the European distaste for air
 conditioning63 and higher electricity costs that discourage use of air conditioning.64 In the United States,
 heat-related mortality has fallen as urban temperatures have risen. See the Figure below.
-
 Annual population-adjusted heat-related mortality averaged across 28 major U.S. cities. Each bar represents a different
 decade, beginning in the mid-1960s and ending in the late 1990s. Heat-related mortality has been steadily declining.
 Source: World Climate Report, adapted from Davis et al. (2003)65
-
 AIT: “In the summer of 2005 many cities in the American West broke all-time records for
 high temperatures and for the number of consecutive days with temperatures of 100°F or
 more. In all, more than 200 cities and towns in the West set all-time records.” (AIT, p. 76)
-
-  
-
-33
-
-Comment: That may be correct, but AIT should mention that cities and towns generate local heat islands
+Comment: That may be correct, but AIT should mention that cities and towns generate local heat islands
 that grow over time along with population.
-
 For example, a satellite study found that, “over the course of 12 years, between 1987 and 1999, the mean
 nighttime surface temperature heat island of Houston increased 0.82 ± 0.10 [°C].” The study noted that,
 “the growth of the UHI [urban heat island], both in magnitude and spatial extent, scales roughly with the
@@ -1027,7 +643,6 @@ In just 12 years, the UHI of Houston grew by more than the IPCC calculates the m
 surface air temperature of the earth rose over the entire past century, over which period
 the earth’s population rose by some 280% or nearly an order of magnitude more than the
 12-year population growth experienced by Houston.
-
 AIT: “The actual ocean temperatures are completely consistent with what has been
 predicted as a result of man-made global warming. And they’re way above the range of
 natural variability.” (AIT, p. 79)
@@ -1038,26 +653,10 @@ variability.” For example, deMenocal et al. (2000) found warming and cooling e
 Ocean off the coast of West Africa that appear to be synchronous with temperature changes in both
 Greenland and the Bermuda Rise.68 All three reconstructions indicate greater warmth during the Medieval
 Warm Period than the present. See the Figure below.
-
-34
-
-  
-
-Three data sets show a synchronous warming during the Medieval Warm Period. Sea surface temperatures off the
-West Coast of Africa and the Bermuda Rise were warmer than the present.
-Source: deMenocal et al. (2000)
-
 A recent update on global ocean temperatures found that a cooling between 2003 and 2005 eliminated
 one-fifth of the long-term upper ocean heat gain believed to have occurred over the previous 48 years.69
 This cooling event is a phenomenon no greenhouse climate model can replicate—a reminder that much
 remains unknown about natural climate variability.70
-
-  
-
-35
-
-VI. Hurricanes
-
 AIT: “As the oceans get warmer, storms get stronger.” (AIT, p. 81)
 Comment: Some storms may get stronger, but others may get weaker. There are two main types of
 storms, hurricanes (tropical cyclones) and wintertime (frontal) storms. Global warming is likely to affect
@@ -1074,7 +673,6 @@ Wintertime storms draw their energy from the collision between cold and warm air
 models predict, the higher northern latitudes warm more than the lower tropical latitudes, the temperature
 differential between colliding air masses should decrease, potentially reducing the intensity of some
 winter storms.73
-
 AIT: “But there is now a strong, new emerging consensus that global warming is indeed
 linked to a significant increase in both the duration and intensity of hurricanes.” (AIT, p. 81)
 Comment: The scientific jury is still out on these matters. Kerry Emanuel of MIT found that hurricane
@@ -1090,44 +688,25 @@ improved detection, monitoring, and analysis of non-land-falling hurricanes.76
 Philip Klotzbach of Colorado State University found “a large increasing trend in tropical cyclone intensity
 and longevity for the North Atlantic basin and a considerable decreasing trend for the North Pacific,” but
 essentially no trend in other tropical cyclone-producing ocean basins.77 See the Figure below.
-
-  
-
-37
-
-Accumulated Cyclone Energy (ACE) index values for six ocean basins. The ACE index is a measure of the
+Accumulated Cyclone Energy (ACE) index values for six ocean basins. The ACE index is a measure of the
 energy contained in the tropical cyclone over its lifetime. There has been an increase in the North Atlantic, a
 decrease in the Northeast Pacific, and not much long-term change anywhere else.
 Source: Klotzbach (2006)
-
 In reality, the “consensus” of the scientific community is that there is as yet “no consensus” about the
 claim that global warming has significantly increased the severity of major storms. Consider this
 conclusion reached by 120 scientists at a meeting of the World Meteorological Organization:
 The possibility that greenhouse gas induced global warming may have already caused a
 substantial increase in some tropical cyclone indices has been raised (e.g. Mann and
 Emanuel, 2006), but no consensus has been reached on this issue.78
-
 AIT: “Brand-new evidence is causing some scientists to assert that global warming is
 even leading to an increased frequency of hurricanes, overwhelming the variability in
 frequency long understood to be part of natural deep-current cycles.” (AIT, p. 81)
 Comment: Gore doesn’t reference this “evidence,” so we are not in a position to evaluate whether it
 shows an increased frequency of hurricanes. Emanuel (2005), a study Gore cited on page 81, reports that
-38
-
-  
-
-ongoing research finds “no trend” in hurricane frequency. Webster et al. (2005), a study to which Gore
+ongoing research finds “no trend” in hurricane frequency. Webster et al. (2005), a study to which Gore
 alludes on page 89 (see below), also found no increase in the overall number of tropical cyclones. Ren et
 al. (2006) found a decrease during 1957-2004 in tropical cyclone precipitation and storm activity in
 China.79 See the Figures below.
-
-Total annual volume of tropical cyclone precipitation (a) and total number of tropical cyclone torrential rain events
-(b) declined in China during 1957-2004
-Source: Ren et al. (2006)
-
-Frequency of rain-influencing tropical cyclones and typhoons in China declined during the same period.
-Source: Ren et al. (2006)
-
 AIT: “The emerging consensus linking global warming to the increasingly destructive power of
 hurricanes has been based in part on research showing a significant increase in the number of
 category 4 and 5 hurricanes.” (AIT, p. 89)
@@ -1135,20 +714,12 @@ Comment: Peter Webster and colleagues found a significant increase in the number
 during the period 1970-2004.80 In contrast, Klotzbach found only a “small increase in global Category 4-5
 hurricanes from the period 1986-1995 to the period 1996-2005,” and considers it likely that “improved
 observational technology” accounts for the small increase he observed.
-  
-
-39
-
-Patrick Michaels found that, in the Atlantic basin, the hurricane formation area with the best data over the
+Patrick Michaels found that, in the Atlantic basin, the hurricane formation area with the best data over the
 longest period, the “trend” observed by the Webster team disappears once data going back to 1940 are
 included.81 As the Figure below shows, the number and percentage of intense storms from 1940 to 1970
 were about equal to the number and percentage of intense storms from 1970 to 2004. The gray shaded
 area illustrates the data in the 30-year period prior to the period analyzed by Webster et al. The pre-1970
 data comes from the National Hurricane Center.82
-
-Figure derived from National Hurricane Center data
-Source: Patrick Michaels
-
 Michaels comments: “When taken as a whole, the pattern appears to be better characterized as being
 dominated by active and inactive periods that oscillate through time, rather than being one that indicates a
 temporal trend.”
@@ -1165,18 +736,11 @@ intensity increase to date. Such a small increase is hard to detect. It is diffi
 strong hurricane activity this past season to global warming. Season-to-season variability is very large.”85
 Another modeling study, Bengtsson et al. (2006),86 projects no increase in tropical storm severity from
 global warming:
-•
-•
-
-40
-
-“There are no changes in the extremes of tropical storms [in our model projection] in spite of
+"There are no changes in the extremes of tropical storms [in our model projection] in spite of
 increased tropical SST by 2°–3°C.”
 “The Atlantic [tropical] storms are reduced in number, in particular the stronger ones, while the
 storms in the eastern Pacific are virtually unchanged though there is some indication of fewer extreme
-  
-
-storms. In the western Pacific there is little change. It is interesting to note that the change in SST by
+storms. In the western Pacific there is little change. It is interesting to note that the change in SST by
 between 2° and 3°C has not had any influence on the numbers and intensities of the more powerful
 tropical storms.”
 Since the Kyoto Protocol would avert an immeasurably small amount (0.07°C) of global warming by
@@ -1197,13 +761,11 @@ attention.” They consequently call upon policymakers to undertake a comprehens
 “building practices, and insurance, land use, and disaster relief policies that currently serve to promote an
 ever-increasing vulnerability to hurricanes.” This science-based perspective on hurricane risk is absent
 from AIT.
-
 AIT: “In 2004, Florida was hit with four unusually powerful hurricanes.” (AIT, p. 83)
 Comment: Yes, but was that due to global warming? Satellite measurements show that, in 2004, the
 Atlantic hurricane basin had the coolest June-July-August (season 3) since 2000, and the 8th coolest since
 1979.89 No hurricanes made landfall in the United States in 2006. Is that evidence against a link between
 global warming and hurricanes?
-
 AIT: “…that same year, Japan set an all-time record for typhoons. The previous record
 was seven. In 2004, 10 typhoons hit Japan.” (AIT p. 83)
 Comment: The Figure below shows the number of tropical storms and typhoons (Tropical Cyclones, or
@@ -1211,14 +773,6 @@ TCs) over the Western North Pacific, from 1950 through 2005. The data simply do 
 trend corresponding to the gradual increase in atmospheric CO2 levels. Besides, whether a particular
 storm “hits” Japan—its trajectory—depends on local meteorological factors, not average global
 temperatures.
-
-  
-
-41
-
-Tropical cyclones near Japan were more frequent in the 1960s
-Source: Matsuura et al. (2003), updated February 200690
-
 AIT: “In the spring of 2006, Australia was hit by several unusually strong, Category 5
 cyclones, including Cyclone Monica, the strongest cyclone ever measured, off the coast
 of Australia—stronger than Hurricanes Katrina, Rita, or Wilma.” (AIT, p. 82)
@@ -1230,7 +784,6 @@ More importantly, Australia’s hurricane season in 2006 was not exceptional. Ac
 tropical cyclone season in the Australian region has been near average with the development of 12 storms,
 two more than average. Although final assessments of tropical cyclone strength are continuing, it is
 thought that 25 percent of these storms reached Category 5 strength on the Australian scale.”92
-
 AIT: “Textbooks had to be re-written in 2004. They used to say, ‘It’s impossible to have
 hurricanes in the South Atlantic.’ But that year, for the first time ever, a hurricane hit
 Brazil.” (AIT, p. 84)
@@ -1243,11 +796,7 @@ At the same time, wind shear, which disorganizes hurricanes, was weaker than usu
 Bob Hensen of the University Corporation for Atmospheric Research, “the heat flux and light shear gave
 birth to a system that bore the satellite earmarks of a hurricane.”93 To blame rising CO2 levels for Catarina,
 Gore would have to argue that global warming cooled the water and made the air even colder.
-42
-
-  
-
-AIT: “And then came Katrina….The consequences were horrendous. There are no words
+AIT: “And then came Katrina….The consequences were horrendous. There are no words
 to describe them.” (AIT, pp. 94-95)
 Comment: The consequences of Katrina were horrendous, but it is sheer demagoguery to blame CO2
 emissions for the devastation. Kerry Emanuel, the very scientist whose work Gore cites to claim a
@@ -1272,7 +821,6 @@ Katrina devastated New Orleans because the levees, battered by storm surges, bro
 pour into and inundate the city. The flood control system proposed by the Corps would in all likelihood
 have prevented the enormous loss of life and record-breaking economic losses. Litigation, not rising CO2
 levels, was the “anthropogenic” factor that turned Katrina into a horrific catastrophe.
-
 AIT: “And before Wilma left the scene, something new happened: We ran out of names.
 For the first time in history, the World Meteorological Organization had to start using the
 letters of the Greek alphabet to name the hurricanes and tropical storms that continued on
@@ -1285,39 +833,20 @@ storms only goes back to 1953.96 Hurricane detection capabilities have improved 
 hurricanes, this does not tell us much beyond the fact that 2005 was a very active hurricane year.
 Furthermore, 2005 was not the first year hurricanes and tropical storms continued into December. It also
 happened in 1878, 1887, 1888, 1925, 1953, 1975, 1984, 1989, 1998, 2001, and 2003.97
-
-  
-
-43
-
-VII. Tornadoes, Floods, Fire, and Drought
-
 AIT: “Also in 2004, the all-time record for tornadoes in the United States was broken.”
 (AIT, p. 87)
 Comment: Tornado frequency has not increased; rather, the detection of smaller tornadoes has increased.
 If we consider the tornadoes that have been detectable for many decades (i.e. F-3 or greater), there is
 actually a slightly downward trend since 1950. See the Figure below.
-
-The number of strong tornadoes has declined
-Source: National Climate Data Center98
-
 Oklahoma experienced its longest tornado-free period in 2003-4 (May 17, 2003-January 20, 2004), and
 the State had only one tornado of F2 strength or greater in all of 2004.99 As a whole, the United States has
 not experienced an F5 tornado—the strongest of all tornadoes—in 7 years, the longest F5-free period in
 recorded U.S. tornado history.100 Was that in spite of global warming, or because of it?
-
 AIT: “Over the last three decades, insurance companies have seen a 15-fold increase in
 the amount of money paid to victims of extreme weather. Hurricanes, floods, drought,
 tornados, wildfires and other natural disasters have caused these losses.” (AIT, p. 101)
 Gore presents a graph similar to the Figure below.
-
-  
-
-45
-
-Typical chart of non-adjusted weather-related economic losses
-
-Comment: Gore does not say whether these loss estimates are adjusted for increases in population,
+Gore does not say whether these loss estimates are adjusted for increases in population,
 wealth, and the consumer price index. Absent careful adjustment for societal factors, it is impossible and
 unscientific to infer climate trends from weather-related losses.
 Kunkel et al. (1999) examined whether increases in mortality and economic losses due to extreme
@@ -1326,13 +855,6 @@ weather events mirrored changes in the physical magnitude of such events.101 The
 including a growing population in higher risk coastal areas and large cities, more property subject to
 damage, and lifestyle and demographic changes subjecting lives and property to greater exposure.” Other
 key findings include:
-•
-•
-•
-
-•
-•
-
 Scientists cannot yet quantify the possible contribution of an increase in the frequency of heavy rain
 events to increases in flood-related damage.
 When hurricane losses are adjusted for changes in population, inflation, and wealth, “there is instead
@@ -1343,19 +865,12 @@ thunderstorm phenomena.”
 “There is no evidence of changes in drought-related losses (although data are poor) and no apparent
 trend in climatic drought frequency.”
 “There is also no evidence of changes in the frequency of intense heat or cold waves.”
-
 In a paper recently submitted for publication, Roger Pielke, Jr. and five colleagues examine the latest data
 on U.S. economic losses from hurricanes. They found no trend from 1900 to 2005 once the data are
 “normalized” for changes in population, wealth, and inflation.102 The Figures below show non-adjusted
 and adjusted U.S. losses from hurricanes.
-
-46
-
-  
-
-Adjust the weather-related losses for population growth, wealth, and inflation, and the warming signal disappears.
+Adjust the weather-related losses for population growth, wealth, and inflation, and the warming signal disappears.
 Source: Pielke, Jr. et al. (submitted, Nov. 2006)
-
 The issue of primary concern to most people is whether mortality from extreme weather events is
 increasing or declining. The good news, says economist Indur Goklany, is that, despite the increase of
 population in high-risk areas, “aggregate mortality and mortality rates due to extreme weather events are
@@ -1369,15 +884,8 @@ for mortality. Cumulatively, the declines more than compensated for increases du
 2003 [European] heat wave. With regard to the U.S., current mortality and mortality rates
 due to extreme temperatures, tornadoes, lightning, floods and hurricanes are also below
 their peak levels of a few decades ago. The declines for the last four categories range
-from 55 to 95 percent.
-
-  
-
-47
-
-Weather-related deaths and death rates have declined dramatically.
+from 55 to 95 percent.Weather-related deaths and death rates have declined dramatically.
 Source: Goklany
-
 AIT: “Warmer water increases the moisture content of storms, and warmer air holds
 more moisture. When storm conditions trigger a downpour, more of it falls in the form of
 big, one-time rainfalls and snowfalls. (AIT, p. 106)
@@ -1386,7 +894,6 @@ meteorological factors affecting the frequency or intensity of “big, one-time�
 unknown. A recent study of the Iberian Peninsula found that, from 1958 to 1997, there was an increasing
 trend in the number of days with light rainfall and a decrease in the number of days with moderate,
 intense, and very intense rainfall.104
-
 AIT: Partly as a result [of the increase in big downpours], the number of large flood events
 has increased decade by decade, on every continent.” Gore illustrates the last point with a
 chart titled, “Number of Major Flood Events by Continent and Decade.” (AIT, p. 106)
@@ -1399,12 +906,7 @@ political factors. As the MEA report explains: “Only events that are classifie
 this database. (An event is declared a disaster if it meets at least one of the following criteria: 10 or more
 people reported killed; 100 or more people reported affected; international assistance was called; or a
 state of emergency was declared (OFDA/CRED 2002).”
-
-48
-
-  
-
-Obviously, the database is going to be skewed toward more events in later decades, simply because of better
+Obviously, the database is going to be skewed toward more events in later decades, simply because of better
 reporting, more declared states of emergency, and more calls for international assistance. As the MEA
 report observes: “Figure 16.5 shows a clear increase in the number of floods since the 1940s for every
 continent and a roughly constant rate of increase for each decade. However, it should be noted that although
@@ -1422,12 +924,6 @@ and a host of societal factors may well be beyond human capability. Yet AIT pres
 as unambiguous evidence of a global-warming ravaged planet.
 The Center for the Study of Carbon Dioxide and Global Change summarizes the literature on floods and
 climate variability:
-•
-
-•
-
-•
-
 Asia: “The results of these [five] studies from Asia provide no support for the climate-alarmist claim
 that global warming leads to more frequent and severe flooding. If anything, they hint at an opposite
 effect.”106
@@ -1436,7 +932,6 @@ many other parts of the world, there are simply no compelling real-world data to
 North America: “Taken together, the research described in this Summary [21 studies] suggests that,
 if anything, North American flooding tends to become both less frequent and less severe when the
 planet warms, although there have been some exceptions to this general rule.”108
-
 AIT: “In many areas of the world, global warming also increases the percentage of
 annual precipitation that falls as rain instead of snow, which has led to more flooding in
 spring and early summer. In 2005 Europe had a year of unusual catastrophes similar to
@@ -1447,21 +942,14 @@ most in 38 years.109 Many other ski resorts in California, the Pacific Northwest
 Vancouver, U.S. Northern Rockies, Utah, and Colorado posted above-average snowfalls in 2005-2006,
 and many had “high” snowfalls in 2004-05, including three “record high” snowfalls.110 Again, was this in
 spite of global warming, or because of it?
-
 AIT: “July 2005, Mumbai [Bombay], India, received 37 inches of rain in 24 hours—the
 largest downpour any Indian city has received in one day.” (AIT, p. 110)
-  
-
-49
-
-Comment: It is scientifically illegitimate to attribute any particular precipitation event to a gradual
+Comment: It is scientifically illegitimate to attribute any particular precipitation event to a gradual
 increase in average atmospheric temperatures. If global warming were influencing rainfall in Mumbai, we
 would expect to see it in long-term precipitation records. Mumbai has two weather stations that keep
 detailed records on precipitation.111 Neither shows any trend in July rainfall over the past 45 years. See
 the Figures below.
-
 Mumbai weather stations show no trend in July rainfall over the past 45 years.
-
 AIT: “There has also been record flooding in China, which, as one of the planet’s oldest
 civilizations, keeps the best flood records of any nation in the world. Recently, for
 example, there were huge floods in Sichuan and Shandong provinces.”
@@ -1472,11 +960,7 @@ Westerners have dubbed it [Yellow River] “China's Sorrow,” because over the 
 it has killed more people than any other river in the world. In 1887 flooding killed nearly
 two million people, in 1931 the death toll was almost four million, and in 1938 it was
 almost one million.
-50
-
-  
-
-The Yangtze River runs through Sichuan Province. According to Xia Jun of the Chinese Academy of
+The Yangtze River runs through Sichuan Province. According to Xia Jun of the Chinese Academy of
 Science and Yongoin Chen of the University of Hong Kong, 23 severe floods occurred in the Yangtze
 basin from 1843 to 1992—once every seven years on average. The “most disastrous” Yangtze flood in
 modern times occurred in 1954. “This exceptionally serious flood struck 123 counties and cities and
@@ -1493,7 +977,6 @@ landscapes of the Yangtze Basin. Deforestation in the catchment area has induced
 erosion, resulting in a large amount of sediment deposited in reservoirs whose storage
 capacity is thus reduced. Strengthening the flood defense to protect people living on the
 floodplain has raised the water level during the flood.
-
 AIT: “Wildfires are becoming much more common as hotter temperatures dry out the
 soil and the leaves. In addition, warmer air produces more lightning. The graph below
 shows the steady increase in major wildfires in North and South America over the last
@@ -1515,12 +998,7 @@ Although the number of “recorded” wildfires is increasing, the MEA report fi
 reduction in the area burned.” In the United States, for example, “the area burned has declined more than
 90% since 1930.” AIT fosters the opposite impression—that more and more of the United States is
 literally going up in smoke.
-
-  
-
-51
-
-AIT: “The nearby Anhui province [in China] was continuing to suffer a severe drought at
+AIT: “The nearby Anhui province [in China] was continuing to suffer a severe drought at
 the same time the neighboring areas were flooding. One of the reasons for this paradox
 has to do with the fact that global warming not only increases precipitation world wide
 but at the same time causes some of it to relocate.” (AIT, p. 113)
@@ -1529,7 +1007,6 @@ warming. If there’s a drought, that’s global warming. Global warming can onl
 floods—never make wet places drier or dry places moister. Floods and droughts were less frequent and
 less severe in the good old days before SUVs and coal-fired power plants. This is the stuff of fairy tales,
 not science.
-
 AIT: Gore blames global warming for the disappearance of Lake Chad (see the images
 below), which in turn contributed to famine and genocide in the region. He sermonizes:
 Lake Chad’s “fate is sadly emblematic of a part of the world where climate change can be
@@ -1538,22 +1015,14 @@ about climate change, the more it looks as if we [the United States, which emits
 of the world’s greenhouse gases] may be the real culprit.” He concludes: “It is time to
 take a hard honest look at our role in this escalating disaster. We helped manufacture the
 suffering in Africa, and we have a moral obligation to try to fix it.” (AIT, p. 117)
-
-Images of Lake Chad
-Source: NASA 116
-
-Comment: Two responses are in order here, one regarding Africa generally; the other specific to Lake
+Two responses are in order here, one regarding Africa generally; the other specific to Lake
 Chad. Since 1950 southern Africa and the Sahel region have experienced significant reductions in rainfall,
 drying the soil and causing the desert to expand—a process called “desertification.” Climate alarmists
 often blame desertification on CO2-induced global warming. However, a recent study challenges this
 conventional wisdom. Hoerling et al. (2006) compared actual precipitation data with the rainfall
 simulations of 18 climate models used by the IPCC in its Fourth Assessment Report. The Center for the
 Study of Carbon Dioxide and Global Change summarizes the Hoerling team’s findings:
-52
-
-  
-
-In the words of the four researchers, “the ensemble of greenhouse-gas-forced
+In the words of the four researchers, “the ensemble of greenhouse-gas-forced
 experiments, conducted as part of the Fourth Assessment Report of the Intergovernmental
 Panel on Climate Change, fails to simulate the pattern or amplitude of the twentiethcentury African drying, indicating that the drought conditions were likely of natural
 origin.” In fact, they say that for both of the regions studied, “the observed trend
@@ -1593,12 +1062,7 @@ commons. Yet Gore blames the USA. He calls global warming a “moral issue,” b
 moralizing issue. Global warming allows Gore to discover moral agency and guilt in the workings of
 inanimate nature. It allows him to “blame America first” for misfortunes around the world that may be
 entirely due to local actions and/or climatic factors beyond human control.
-
-  
-
-53
-
-AIT: “Global warming also sucks more moisture out of the soil. Partly as a consequence,
+AIT: “Global warming also sucks more moisture out of the soil. Partly as a consequence,
 desertification has been increasing in the world decade by decade.” (AIT, p. 118)
 Comment: Why then do pan evaporation studies, such as Roderick and Farquhar (2004),119 indicate that
 evaporation from soils has been decreasing since the 1950s in the former Soviet Union, Eurasia,
@@ -1608,10 +1072,6 @@ surface is both warmer and effectively wetter.” Their data suggest that the Ea
 becoming more like a gardener’s ‘greenhouse’.”
 Although intuitively plausible, a link between global warming and drought is more difficult to establish
 than Gore seems to think. No U.S. drought in recent decades was as severe as the drought of the 1930s.
-See the image below.
-
-The Dust Bowl
-
 Nor was the 1930s drought outside the range of natural variability. Consider this excerpt from NOAA’s
 Paleoclimatology Program:
 Longer records show strong evidence for a drought [in the 16th century] that appears to
@@ -1625,18 +1085,10 @@ were extremely severe and lasted for three to six years, a long time for such se
 drought conditions to persist in this region of North America. Coincident droughts, or the
 same droughts, are apparent in tree-ring records from Mexico to British Columbia, and
 from California to the East Coast …120
-
-54
-
-  
-
-AIT: “The map [below] shows what is projected to happen to soil moisture in the United
+AIT: “The map [below] shows what is projected to happen to soil moisture in the United
 States with the doubling of CO2, which would happen in less than 50 years if we continue
 business as usual. According to scientists, it will lead, among other things to a loss in soil
 moisture of up to 35% in vast growing areas of our country.” (AIT, p. 121)
-
-Source: Princeton GDFL R15 Climate Model
-
 Comment: The map shows what one climate model (the Princeton Geophysical Fluid Dynamics
 Laboratory R15 model) projects would happen to U.S. soil moisture with a doubling of CO2. Not all
 models reach this conclusion. The Clinton-Gore Administration used two models—Canadian Climate
@@ -1644,18 +1096,11 @@ Center and Hadley Center—to produce its major global warming report, U.S. Nati
 Potential Consequences of Climate Variability and Change.121 Like the Princeton model, the Canadian
 model predicts increased dryness. The Hadley model, on the other hand, predicts increased wetness. See
 the image below.
-
-Source: U.S. Global Change Research Program, National Assessment report, p. 552.
-
 In a report commissioned by the Pew Center on Global Climate Change, Kenneth Frederick and Peter
 Gleick described the different results predicted by those models:
 The Canadian model suggests runoff would decline in all regions except California. In 12
 of the 18 regions, runoff declines by more than 20 percent, an outcome that would have
-  
-
-55
-
-serious adverse impacts. In contrast, the Hadley model projects increases in average
+serious adverse impacts. In contrast, the Hadley model projects increases in average
 runoff in most regions; the majority of the nation’s arid and semiarid regions would have
 significantly more water, reducing problems of water scarcity but perhaps increasing the
 threat of floods.122
@@ -1673,7 +1118,6 @@ been minimally affected by anthropogenic activities. Trends in drought character
 (duration, frequency, severity, and extent) are similar to those in soil moisture and runoff,
 i.e., droughts have, for the most part, become shorter, less frequent, less severe, and cover
 a smaller portion of the country over the last century.123
-
 AIT: “In 2005 the Amazon suffered the longest and worst drought in recorded history—
 with devastating effects.” (AIT, p. 141)
 Comment: RealClimate.Org, a Web site set up to debunk global warming “skeptics,” concludes in a
@@ -1697,24 +1141,13 @@ temperatures restricted plant growth, it got warmer; where sunlight was needed, 
 where it was too dry, it rained more.”127
 AIT fails to make a credible case that global warming is making the weather more dangerous. The
 frequency of strong tornadoes in the United States has declined slightly since 1950; increased property
-56
-
-  
-
-damages due to floods and storms are chiefly due to socio-economic factors such as development in flood
+damages due to floods and storms are chiefly due to socio-economic factors such as development in flood
 plains and coastal areas; globally, deaths from extreme weather events have declined by 95 percent or
 more since the 1920s; long-term rainfall records for the month of July in Mumbai, India exhibit no
 greenhouse warming signal; U.S. CO2 emissions are not to blame for the disappearance of Lake Chad;
 U.S. droughts were more severe during the 1930s and the latter half of the 16th century than during recent
 decades; Brazil’s 2005 drought has no discernible global warming link; and global warming appears to
 have increased the bio-productivity of rainforests throughout the world.
-
-  
-
-57
-
-VIII. Arctic Climate
-
 AIT: “There are two places on Earth that serve as canaries in the coal mine—regions that
 are especially sensitive to the effects of global warming,” i.e. the Arctic and the
 Antarctic. In the Arctic, “Temperatures are shooting upward there faster than at any other
@@ -1726,23 +1159,12 @@ short-wave radiation from the sun whereas sea water is dark and absorbs it; cons
 melts, the Arctic ocean absorbs more radiant energy, amplifying the initial warming. Conversely, cooling
 expands sea ice, producing more cooling. Arctic climate swings!
 For example, Polyakov et al. (2003) found that the Arctic (the area poleward of 62°N) was as warm in the
-late 1930s as it was at the end of the 20th century.128 See the Figure below.
-
-th
-
+late 1930s as it was at the end of the 20th century.128 See the Figure.
 The Arctic in the 1930s was as warm as or warmer than it was in the late 20 century.
 Source: Polyakov et al. (2003)
-
 Consistent with Polyakov’s record, Chylek et al. (2006) found that Greenland was as warm during 19201930 as it was during 1995-2005, but that the rate of warming during the earlier decade was “50%
-higher.”129
-
-  
-
-59
-
-Greenland in the 1920s-1940s was as warm as or warmer than it was in the past decade.
+higher.”Greenland in the 1920s-1940s was as warm as or warmer than it was in the past decade.
 Source: Chylek et al. (2006)
-
 Going back further in time, three studies reviewed by Patrick Michaels found greater-than-present Arctic
 warmth in the early Holocene.130 Briner et al. (2006) found that, 10,000 to 8,500 years ago, Canada’s
 Baffin Bay was ~ 5°C warmer than it is today.131 Kaufman et al. (2004) found that, 9,000-7,000 years
@@ -1758,14 +1180,7 @@ mid-Holocene. Arctic climate is naturally variable—a fact AIT never acknowledg
 
 AIT: “Three years ago the Ward Hunt shelf cracked in half, to the astonishment of
 scientists. This had never happened before.” (AIT, p. 128)
-
-60
-
-  
-
-Crack in the Ward Hunt Shelf
-
-Comment: Gore makes this sound like a portent of doom. The Center for the Study of Carbon Dioxide
+Gore makes this sound like a portent of doom. The Center for the Study of Carbon Dioxide
 and Global Change, in a review of Mueller et al. (2003), observes that changes of the same kind had been
 under way since the early 20th century, when CO2 concentrations were still fairly close to pre-industrial
 levels.136
@@ -1778,7 +1193,6 @@ demise? We say what Mueler et al. say: “The cumulative effects of a long-term 
 trend since the Little Ice Age (Overpeck et al., 1997) likely caused the ongoing changes
 in the Ward Hunt Ice Shelf,” including “the abrupt break-up and loss of integrity that we
 observed over the period 2000-2002.”
-
 AIT: “In Alaska these are called ‘drunken trees’ because they are leaning every which way.
 And this is caused neither by wind damage nor alcohol consumption. These trees put their
 roots deep into the frozen tundra decades—even centuries—ago and now as the tundra
@@ -1789,12 +1203,7 @@ Research Center (ACRC) shows that there is no linear trend in Alaska temperature
 might be expected from the fairly steady increase in CO2 levels during this period. Rather, there were two
 slight cooling trends—the first from 1949 to 1975, the second from 1977 to 2001—interrupted by an
 overriding step-like warming in 1976 corresponding to the PDO phase shift.137 See the Figure below.
-
-  
-
-61
-
-The 1976 PDO Shift
+The 1976 PDO Shift
 Source: Alaska Climate Research Center, Temperature Change in Alaska, 1949-2005138
 
 No greenhouse warming computer model has ever been able to simulate the 1976 temperature jump.
@@ -1818,12 +1227,7 @@ AIT: “The graph below shows the number of days each year that the tundra in Al
 frozen solidly enough to drive on [more than 200 winter travel days in 1970 down to
 fewer than 80 in 2002].” (AIT, p. 135)
 Comment: The 1976 PDO shift may account for part of the trend depicted in Gore’s graph.
-
-62
-
-  
-
-AIT: “Since the 1970s, the extent and thickness of the Arctic ice cap has diminished
+AIT: “Since the 1970s, the extent and thickness of the Arctic ice cap has diminished
 precipitously. There are studies now showing that if we continue with business as usual, the
 Arctic ice cap will completely disappear each year during the summertime.” (AIT, p. 143)
 Comment: The graph accompanying these statements shows a decline in Arctic sea-ice area from about
@@ -1860,12 +1264,7 @@ drowned bears—enough to affect population dynamics. The study in question repo
 2004, “4 dead bears were seen floating far offshore,” apparently drowned by “an abrupt wind storm.”143
 So the study may have uncovered an unusual case, related to a specific storm, rather than a trend, and the
 “significant numbers” turns out to be four.
-
-  
-
-63
-
-Patrick Michaels, analyzing World Wildlife Fund data, found that polar bear populations are increasing in
+Patrick Michaels, analyzing World Wildlife Fund data, found that polar bear populations are increasing in
 Arctic areas where it is warming and declining in areas where it is cooling.144 A leading Canadian bear
 biologist wrote recently, “Of the 13 populations of polar bears in Canada, 11 are stable or increasing in
 number. They are not going extinct, or even appear to be affected at present.”145
@@ -1883,30 +1282,17 @@ Figure below. Yet the polar bears managed to survive.
 Regional maximum LIG summer Arctic temperature anomalies (ºC) relative to present.
 Taken from Cape Project Members (2006).
 Source: World Climate Report
-
 Obviously, there was no Endangered Species Act during the Last Interglacial Period or the early
 Holocene, nor were there any public or private conservation agencies or programs. The polar bears of the
 21st century will have “anthropogenic” advantages in the struggle for survival that their remote ancestors
 lacked.
-
-64
-
-  
-
-AIT: Gore suggests that even a mid-range warming of 2.7°C (5°F) would be a planetaryscale disaster: “An increase of five degrees [Fahrenheit] actually means an increase of
+AIT: Gore suggests that even a mid-range warming of 2.7°C (5°F) would be a planetaryscale disaster: “An increase of five degrees [Fahrenheit] actually means an increase of
 only one or two degrees at the Equator, but more than 12° at the North Pole, and a large
 increase on the periphery of Antarctica as well.” (AIT, p. 149)
 Comment: The temperature record of the past three decades suggests that if global warming continues,
 average air temperatures will rise about 1.7°C (3°F) during the 21st century. This implies a polar warming
 comparable to the Arctic warmth of the early Holocene. If our Stone Age ancestors survived (and likely
 benefited from) that “disaster,” also known as the Holocene Climate Optimum, why should we be afraid?
-
-  
-
-65
-
-IX. Gulf Stream
-
 AIT: Gore describes the functioning of Atlantic branch of the thermohaline circulation
 (THC), the oceanic “conveyor belt” that, along with the Gulf Stream, keeps Europe
 relatively warm in the wintertime. The sinking of dense (cold and salty) water at the
@@ -1917,9 +1303,6 @@ According to Gore, such an event happened “10,000 years ago,” and “The Gul
 virtually stopped…Consequently, Europe went back into an ice age for another 900 to
 1,000 years.” “Some scientists are now seriously worried about the possibility of this
 phenomenon recurring.” (AIT, p. 149)
-
-An illustration of the THC “conveyor belt”
-
 Comment: Gore assumes that it is the THC that keeps London and Paris 15-20°F warmer than New York
 City during the winter. Richard Seager of Columbia University’s Lamont-Doherty Earth Observatory and
 his colleagues contend that oceanic heat transport is simply not strong enough to account for Europe’s
@@ -1934,11 +1317,7 @@ but not catastrophic effect on climate. The temperature difference between Europ
 Labrador should remain. Temperatures will not drop to ice age levels, not even to the
 levels of the Little Ice Age, the relatively cold period that Europe suffered a few centuries
 ago. The North Atlantic will not freeze over, and English Channel ferries will not have to
-  
-
-67
-
-plow their way through sea ice….Instead of creating catastrophe in the North Atlantic
+plow their way through sea ice….Instead of creating catastrophe in the North Atlantic
 region, a slowdown in thermohaline circulation would serve to mitigate the expected
 anthropogenic warming!149
 Similarly, Seager questions the theory that a shutdown of the THC triggered the Younger Dryas, the miniice age of “10,000 years ago” or so, to which Gore refers. Some scientists have speculated that a sudden
@@ -1966,13 +1345,6 @@ other hand, is a wind-driven system. It is energized primarily by the Earth’s 
 lunar tides, not by salinity levels in the oceans. As one scientist put it, the Gulf Stream is safe as long as
 the Earth turns and the wind blows.159 Thus, even in climate models that project a weakening of the THC
 in the 21st century, Europe continues to warm, “albeit more slowly than the rest of the world.”160
-
-68
-
-  
-
-X. Birds, Beetles, Extinctions
-
 AIT: “The age-old rhythm of the Earth’s seasons—summer, fall, winter, and spring—is
 also changing, as some parts of the world heat up more rapidly than others.” (AIT, 152)
 Gore cites a study showing that, in the Netherlands, the height of caterpillar hatching
@@ -1997,12 +1369,7 @@ Comment: To illustrate this point, Gore reproduces the graph on the left side of
 However, he does not include the picture on the right side, nor the text at the bottom. The term “invasive
 alien species” can conjure up scary images of pests and weeds. In the study to which Gore refers, the
 “invasive” species are evergreen broad-leaved shrubs and trees.
-
-  
-
-69
-
-The species “invading” Switzerland are evergreen broad-leafed plants deliberately planted in
+The species “invading” Switzerland are evergreen broad-leafed plants deliberately planted in
 Swiss parks and gardens as long as 200 years ago.
 Source: Walther et al. (2002)
 
@@ -2030,11 +1397,7 @@ warming effect of the urban climate are 0.2°C for 1798–1804, 0.7°C for 1831 
 and 1.4°C for 1886 to 1898 (annual mean temperatures). For the period 1961 to 1980,
 there was a difference in the annual mean air temperature of more than 2°C between the
 center of Berlin and the surrounding areas. This warming correlates with a significant
-70
-
-  
-
-reduction of frost days: < 64 days in the center of the city; > 102 days in the surrounding
+reduction of frost days: < 64 days in the center of the city; > 102 days in the surrounding
 areas (Stülpnagel et al., 1990). Consequently, in Berlin, an accelerated invasion of
 nonnative species that tolerate higher temperatures could be expected.167
 To put these numbers in perspective, the IPCC estimates that the world warmed about 0.6°C during the
@@ -2074,12 +1437,7 @@ It is doubtful that Gore’s preferred global warming “solutions”—ratifyin
 energy-efficient appliances, driving less, buying food grown locally, etc.—would save even one tree from
 beetle infestations over the next 50 years. In contrast, prudent forest management (including the use of
 pesticides and fungicides) might save millions of trees—and cost a lot less than Kyoto.
-
-  
-
-71
-
-AIT: “We are facing what biologists are beginning to describe as a mass extinction crisis,
+AIT: “We are facing what biologists are beginning to describe as a mass extinction crisis,
 with a rate of extinction now 1,000 times higher than the normal background rate.”
 (AIT, p. 163)
 Comment: Gore does not tell us what the “natural background” extinction rate is, how it is ascertained,
@@ -2120,11 +1478,7 @@ known as chytrids. Pounds and Puschendorf argued that global warming increases c
 limiting the frogs’ exposure to sunlight, a natural disinfectant that “can rid the frogs of this fungus.”177
 Patrick Michaels identified three problems with this supposed chain of causality. First, there is no
 established correlation between global warming and cloud cover. Second, there was no observed change
-72
-
-  
-
-in Central American cloud cover from 1987 to 2001. Third, there is evidence that humans—possibly ecotourists or researchers—introduced the chytrid fungus into the area, exposing the frogs to an unfamiliar
+in Central American cloud cover from 1987 to 2001. Third, there is evidence that humans—possibly ecotourists or researchers—introduced the chytrid fungus into the area, exposing the frogs to an unfamiliar
 pathogen.178
 Nowhere in AIT does Gore acknowledge the ecological benefits of CO2 emissions (just as he never
 acknowledges the linkages between fossil energy, economic growth, and human welfare). Ecosystem
@@ -2143,13 +1497,6 @@ Source: Center for the Study of Carbon Dioxide and Global Change
 
 Since all animals depend on plants, directly or indirectly, as a food source, rising CO2 levels nourish the
 entire biosphere.
-
-  
-
-73
-
-XI. Coral Reefs
-
 AIT: “Many factors contribute to the death of coral reefs—pollution from nearby shores,
 destructive dynamite fishing in less developed regions, and more acidic ocean waters.
 However, the most deadly cause of the recent, rapid, and unprecedented deterioration of
@@ -2190,9 +1537,7 @@ AIT: “In 1998, the second hottest year on record, the world lost an estimated 
 its coral reefs.” (AIT, p. 164)
   
 
-75
-
-Comment: AIT does not mention that 1998 was the year of an unusually strong El Nino, the warm phase
+Comment: AIT does not mention that 1998 was the year of an unusually strong El Nino, the warm phase
 of a naturally recurring ocean cycle.186 Although 16% of the world’s reefs were seriously damaged in
 1998, by 2003 about 40% of the damaged reefs were either “recovering well” or had “fully recovered,”
 according to Status of Coral Reefs of the World: 2004 (pp. 7-8).187 Corals are more resilient than Gore
@@ -2263,10 +1608,6 @@ were characterized by an increase in the annual rate of calcification, particula
 the past century “and in a more marked way around 1940, 1960 and 1976,” stating once again that
 their results “do not confirm those predicted by the Kleypas et al. (1999) model…”
   
-
-77
-
-XII. Algae, Ticks, Mosquitoes, and Germs
 
 AIT: “We are changing the chemistry of our oceans in many ways, all over the world. As
 a result, there are many new ‘dead zones’ devoid of ocean life. Some are caused by the
@@ -2965,9 +2306,9 @@ Sea is now, essentially, gone.” (AIT, pp. 240-245)
 
 Comment: These statements raise a question about how seriously Gore takes his own doomsday
 scenario. Let us recapitulate Gore’s threat assessment:
-•
-•
-•
+ 
+ 
+ 
 
 The same type of meltwater pools that formed on top of the Larson B ice shelf prior to its collapse are
 forming in increasing numbers on the top of the Greenland Ice Sheet.
@@ -3332,15 +2673,15 @@ Source: Institute for Public Policy Research, Traffic Lights Report (Dec. 27, 20
 
 Open Europe, a British think tank, notes several “serious problems” with the EU Emission Trading
 Scheme (ETS):289
-•
+ 
 
-•
+ 
 
-•
+ 
 
-•
+ 
 
-•
+ 
 
 Most countries game the system for competitive advantage. The UK chose tough targets based on
 past emissions as a baseline while other members gave their firms generous allowances based on
@@ -3564,9 +2905,9 @@ Pew’s analysis of one scenario in particular merits our attention. In “Techn
 interventions, technology breakthroughs, and changing consumer preferences converge to accelerate
 commercialization of high-efficiency, low-emission, and zero-emission energy technologies. In this
 scenario, state governments:
-•
+ 
 
-•
+ 
 
 Set “rigorous” efficiency standards for appliances, enact caps on CO2 emissions from power plants,
 and introduce or expand renewable portfolio standards (policies requiring specified percentages of
@@ -3581,7 +2922,7 @@ losses incident to long-range transmission).
 
 121
 
-•
+ 
 
 Subsidize fuel cell research and effectively raise federal fuel economy standards by requiring new
 cars, minivans, and light trucks to reduce emissions of CO2 per mile traveled.
