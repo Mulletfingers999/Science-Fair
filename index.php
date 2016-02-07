@@ -6,6 +6,7 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="./css/master.css" media="screen" title="no title" charset="utf-8">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <script src="./sorttable/sort.js" charset="utf-8"></script>
     <title>Science Fair Project</title>
   </head>
   <body>
@@ -82,6 +83,10 @@
               $badtxt = file_get_contents('./arct-insane/arct-4.txt');
               break;
 
+            case '[ compare all ]':
+              $badtxt = file_get_contents('./arct-insane/arct-1.txt').file_get_contents('./arct-insane/arct-2.txt').file_get_contents('./arct-insane/arct-3.txt').file_get_contents('./arct-insane/arct-4.txt');
+              break;
+
             default:
               # code...
               break;
@@ -104,8 +109,8 @@
               $goodtxt = file_get_contents('./arct-sane/arct-4.txt');
               break;
 
-            case 'variable':
-              # code...
+            case '[ compare all ]':
+              $goodtxt = file_get_contents('./arct-sane/arct-1.txt').file_get_contents('./arct-sane/arct-2.txt').file_get_contents('./arct-sane/arct-3.txt').file_get_contents('./arct-sane/arct-4.txt');
               break;
 
             default:
@@ -122,19 +127,19 @@
     <div id="res" style="display:none;">
       <h2>Results:</h2>
       <p id="a1-txt">
-        <span style='color:lime;'>Denying Article Text:</span>
+        <span style='color:lime;vertical-align:top;'>Anti Article Text:</span>
         <?php
         if ($_POST['submit1'] && !empty($badtxt)) {
-          echo "<span style='color:red;'>$badtxt</span>";
+          echo "<textarea style='color:red;border:2px solid red;' readonly>$badtxt</textarea>";
         }
         ?>
       </p>
       <br><br>
       <p id="a2-txt">
-        <span style='color: lime;'>Scientific Article Text:</span>
+        <span style='color:lime;vertical-align:top;'>Pro Article Text:</span>
         <?php
         if ($_POST['submit1'] && !empty($goodtxt)) {
-          echo "<span style='color:lightblue;'>$goodtxt</span>";
+          echo "<textarea style='color:lightblue;border:2px solid lightblue;' readonly>$goodtxt</textarea>";
         }
         ?>
       </p>
@@ -179,86 +184,86 @@
           </tr>
         </table>
       </div>
-      <table>
-        <tr>
-          <th>
-            Anti-Words [only]
-          </th>
-          <th>
-            Anti-Words [both]
-          </th>
-          <th>
-            [both] Count
-          </th>
-          <th>
-            Pro-Words [both]
-          </th>
-          <th>
-            Pro-Words [both]
-          </th>
-        </tr>
-        <?php
-          $smptxt = strtolower(preg_replace("/[^a-zA-Z\s]/", " ", $badtxt.$goodtxt));
-          $articles = array(" the ", " an ", " or ", " of ", " to ", " as ", " are ", " and ", " in ", " a ", " the ", " of ", " to ", " and ", " in ", " that ", " from ", " is ", " now ", " you ", " by ", " for ", " have ", " has ", " than ", " on ", " these ", " more ", " was ", " our ", " know ", " out ", " had ", " we ", " or ", " an ", " me ", " its ", " c ");
-          $smptxt = str_ireplace($articles, " ", $smptxt);
-          $cmnwords = array_count_values(explode(' ', $smptxt));
-          arsort($cmnwords);
-          $badtxt = strtolower($badtxt);
-          $goodtxt = strtolower($goodtxt);
+      <table id="indextable">
+        <thead>
+          <tr>
+            <th>
+              <a id="a1" href="javascript:SortTable('a1', 0,'N');">Anti-Words [only]</a>
+            </th>
+            <th>
+              <a id="a2" href="javascript:SortTable('a2',1,'N');">Anti-Words [both]</a>
+            </th>
+            <th>
+              <a id="a3" href="javascript:SortTable('a3',2,'N');">[both] Count</a>
+            </th>
+            <th>
+              <a id="a4" href="javascript:SortTable('a4',3,'N');">Pro-Words [both]</a>
+            </th>
+            <th>
+              <a id="a5" href="javascript:SortTable('a5',4,'N');">Pro-Words [only]</a>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <?php
+            $smptxt = strtolower(preg_replace("/[^a-zA-Z\s]/", " ", $badtxt.$goodtxt));
+            $articles = array(" the ", " an ", " or ", " of ", " to ", " as ", " are ", " and ", " in ", " a ", " the ", " of ", " to ", " and ", " in ", " that ", " from ", " is ", " now ", " you ", " by ", " for ", " have ", " has ", " than ", " on ", " these ", " more ", " was ", " our ", " know ", " out ", " had ", " we ", " or ", " an ", " me ", " its ", " c ");
+            $smptxt = str_ireplace($articles, " ", $smptxt);
+            $cmnwords = array_count_values(explode(' ', $smptxt));
+            arsort($cmnwords);
+            $badtxt = strtolower($badtxt);
+            $goodtxt = strtolower($goodtxt);
 
-          /*require('./wordnik/Swagger.php');
-          $myAPIKey = '[CHANGE_ME]';
-          $client = new APIClient($myAPIKey, 'http://api.wordnik.com/v4');
-          $wordApi = new WordApi($client);*/
+            require_once('./vowcon/VowCon.php');
+            $v = new VowConAnalyzer();
+            //echo 'res: '.$v->WordIsValid('bugler');
 
-          require_once('./vowcon/VowCon.php');
-          $v = new VowConAnalyzer();
-          //echo 'res: '.$v->WordIsValid('bugler');
-
-          foreach ($cmnwords as $key => $value) {
-            if ($v->WordIsValid($key)) {
-              $blank = 0;
-              if (strlen($key) != 1 && strlen($key) != 0) {
-                $bgcolor = "white";
-                echo "<tr>";
-                if (strpos($badtxt, $key) && (strpos($badtxt, $key) && strpos($goodtxt, $key)) == false) {
-                  $bgcolor = "red";
-                  echo "<td style=\"color:$bgcolor;\">$key -- $value</td>";
-                } else {
-                  $blank++;
-                }
-
-                if (strpos($badtxt, $key) && strpos($goodtxt, $key)) {
-                  for ($i=0;$i<$blank;$i++) {
-                    echo "<td>---</td/>";
+            foreach ($cmnwords as $key => $value) {
+              if ($v->WordIsValid($key)) {
+                $blank = 0;
+                if (strlen($key) != 1 && strlen($key) != 0) {
+                  $bgcolor = "white";
+                  echo "<tr>";
+                  if (strpos($badtxt, $key) && (strpos($badtxt, $key) && strpos($goodtxt, $key)) == false) {
+                    $bgcolor = "red";
+                    echo "<td style=\"color:$bgcolor;\">$key ~ $value</td>";
+                  } else {
+                    $blank++;
                   }
-                  $bgcolor = "orange";
-                  echo "<td style=\"color:$bgcolor;\">$key -- ".substr_count($badtxt, " ".$key." ")."</td>";
-                  echo "<td style=\"color:yellow;\">$key -- ".substr_count($badtxt, " ".$key." ")+substr_count($goodtxt, " ".$key." ")."</td>";
-                  echo "<td style=\"color:yellowgreen;\">$key -- ".substr_count($goodtxt, " ".$key." ")."</td>";
-                } else {
-                  $blank=$blank+3;
-                }
 
-                if (strpos($goodtxt, $key) && (strpos($badtxt, $key) && strpos($goodtxt, $key)) == false) {
-                  for ($i=0;$i<$blank;$i++) {
-                    echo "<td>---</td/>";
+                  if (strpos($badtxt, $key) && strpos($goodtxt, $key)) {
+                    for ($i=0;$i<$blank;$i++) {
+                      echo "<td>-1</td/>";
+                    }
+                    $bgcolor = "orange";
+                    $add = substr_count($badtxt, " ".$key." ")+substr_count($goodtxt, " ".$key." ");
+                    echo "<td style=\"color:$bgcolor;\">$key ~ ".substr_count($badtxt, " ".$key." ")."</td>";
+                    echo "<td style=\"color:yellow;\">$key ~ $add</td>";
+                    echo "<td style=\"color:yellowgreen;\">$key ~ ".substr_count($goodtxt, " ".$key." ")."</td>";
+                  } else {
+                    $blank=$blank+3;
                   }
-                  $bgcolor = "green";
-                  echo "<td style=\"color:$bgcolor;\">$key -- $value</td>";
-                } else {
-                  $blank++;
-                  for ($i=0;$i<$blank;$i++) {
-                    echo "<td>---</td/>";
-                  }
-                }
 
-                echo "</tr>";
-                //echo "<li value=\"$value\"><span style=\"color:$bgcolor;\">$key</span></li>";//"\n" . $value . " occurences of " . $key;
+                  if (strpos($goodtxt, $key) && (strpos($badtxt, $key) && strpos($goodtxt, $key)) == false) {
+                    for ($i=0;$i<$blank;$i++) {
+                      echo "<td>-1</td/>";
+                    }
+                    $bgcolor = "green";
+                    echo "<td style=\"color:$bgcolor;\">$key ~ $value</td>";
+                  } else {
+                    $blank++;
+                    for ($i=0;$i<$blank;$i++) {
+                      echo "<td>-1</td/>";
+                    }
+                  }
+
+                  echo "</tr>";
+                  //echo "<li value=\"$value\"><span style=\"color:$bgcolor;\">$key</span></li>";//"\n" . $value . " occurences of " . $key;
+                }
               }
             }
-          }
-        ?>
+          ?>
+        </tbody>
       </table>
     </div>
     </body>

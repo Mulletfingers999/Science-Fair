@@ -39,3 +39,18 @@ option[disabled] {
   border: 2px solid lawngreen;
   cursor: default !important;
 }
+
+textarea {
+  background: transparent;
+  width: 750px;
+  height: 500px;
+  cursor: default;
+}
+
+a {
+  color: darkgreen;
+}
+
+td:nth-child(6) {
+  display: none;
+}
