@@ -25,6 +25,11 @@ select {
   cursor: pointer;
   border-color: darkgrey;
   width:522px;
+  border-color:limegreen;
+}
+
+option {
+  background:black;
 }
 
 option[disabled] {

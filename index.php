@@ -14,6 +14,8 @@
     <br>
     <h1 style="color: yellow;">Analyze Articles</h1>
     <hr>
+    <h2 style="color: yellow;"><i>ACSEF Project by Liam O'Flynn and Arjav Rawal</i></h2>
+    <hr>
     <table>
       <thead>
         <tr>
@@ -131,7 +133,7 @@
         <span style='color:lime;vertical-align:top;'>Anti Article Text:</span>
         <?php
         if ($_POST['submit1'] && !empty($badtxt)) {
-          echo "<textarea style='color:red;border:2px solid red;' readonly>$badtxt</textarea>";
+          echo "<textarea style='color:#ff471a;border:2px solid #ff471a;' readonly>$badtxt</textarea>";
         }
         ?>
       </p>

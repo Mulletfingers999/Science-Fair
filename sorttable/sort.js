@@ -1,13 +1,13 @@
 var TableIDvalue = "indextable";
 var TableLastSortedColumn = -1;
-var clicked = false;
+//var clicked = false;
 function SortTable() {
-if (clicked = false) {
-SortTable(arguments[1], arguments[2], 'N');
+/*if (clicked = false) {
+//SortTable(arguments[0], arguments[1], 'N');
 clicked = true;
 } else {
   clicked = false;
-}
+}*/
 var sortColumn = parseInt(arguments[1]);
 var type = arguments.length > 2 ? arguments[2] : 'T';
 var dateformat = arguments.length > 3 ? arguments[3] : '';
